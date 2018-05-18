@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>MQ9.kml</name>
+<Style id="sn_ylw-pushpin">
+</Style>
+<Placemark>
+  <name>MQ9 Name</name>
+	<LookAt>
+       <altitudeMode>relativeToGround</altitudeMode>
+		<longitude>69.209258710760</longitude>
+		<latitude>34.562804653285</latitude>
+		<altitude>1000.000000000000</altitude>
+		<heading>-23.793103448276</heading>
+		<tilt>86.896551724138</tilt>
+		<range>23.103448275862</range>
+   </LookAt>
+   <styleUrl>#sn_ylw-pushpin</styleUrl>
+   <Model id="model_4">
+   <altitudeMode>relativeToGround</altitudeMode>
+   <Location>
+       <longitude>69.209258710760</longitude>
+       <latitude>34.562804653285</latitude>
+       <altitude>1000.000000000000</altitude>
+   </Location>
+   <Orientation>
+       <heading>127.241379310345</heading>
+       <tilt>0.000000000000</tilt>
+       <roll>-30.000000000000</roll>
+   </Orientation>
+   <Scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+   </Scale>
+   <Link>
+       <href>E:/Users/gjocher/Documents/MATLAB/MQ9 ANIMATION/GEfiles/MQ9.dae</href>
+   </Link>
+   <ResourceMap>
+   </ResourceMap>
+   </Model>
+</Placemark>
+</Document>
+</kml>

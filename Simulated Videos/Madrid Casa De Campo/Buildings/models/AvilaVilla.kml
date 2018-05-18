@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Palacio de los Verdugo AVILA</name>
+	<description><![CDATA[Created with<a href="http://sketchup.google.com"> Google SketchUp</a>]]></description>
+
+	<Placemark>
+		<name>Model</name>
+		<Style id="default">
+		</Style>
+		<Model id="model_1">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<Location>
+				<longitude>-3.7547</longitude>
+				<latitude>40.4232</latitude>
+				<altitude>0</altitude>
+			</Location>
+			<Orientation>
+				<heading>358.8583510516</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+			</Orientation>
+			<Scale>
+				<x>2</x>
+				<y>2</y>
+				<z>2</z>
+			</Scale>
+			<Link>
+				<href>untitled.dae</href>
+			</Link>
+			<ResourceMap>
+				<Alias>
+					<targetHref>untitled/texture0.png</targetHref>
+					<sourceHref>untitled/texture0.png</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>untitled/texture1.jpg</targetHref>
+					<sourceHref>untitled/texture1.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>untitled/texture10.jpg</targetHref>
+					<sourceHref>untitled/texture10.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>untitled/texture11.jpg</targetHref>
+					<sourceHref>untitled/texture11.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>untitled/texture12.png</targetHref>
+					<sourceHref>untitled/texture12.png</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>untitled/texture13.png</targetHref>
+					<sourceHref>untitled/texture13.png</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>untitled/texture2.jpg</targetHref>
+					<sourceHref>untitled/texture2.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>untitled/texture3.jpg</targetHref>
+					<sourceHref>untitled/texture3.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>untitled/texture4.jpg</targetHref>
+					<sourceHref>untitled/texture4.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>untitled/texture5.jpg</targetHref>
+					<sourceHref>untitled/texture5.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>untitled/texture6.jpg</targetHref>
+					<sourceHref>untitled/texture6.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>untitled/texture7.jpg</targetHref>
+					<sourceHref>untitled/texture7.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>untitled/texture8.jpg</targetHref>
+					<sourceHref>untitled/texture8.jpg</sourceHref>
+				</Alias>
+				<Alias>
+					<targetHref>untitled/texture9.jpg</targetHref>
+					<sourceHref>untitled/texture9.jpg</sourceHref>
+				</Alias>
+			</ResourceMap>
+		</Model>
+	</Placemark>
+</Folder>
+</kml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+  xmlns:gx="http://www.google.com/kml/ext/2.2">
+
+  <Document>
+    <name>gx:AnimatedUpdate example</name>
+    <open>1</open>
+
+
+    <gx:Tour>
+      <name>Play me!</name>
+      <gx:Playlist>
+
+      <gx:FlyTo>
+        <gx:flyToMode>bounce</gx:flyToMode>
+        <gx:duration>4</gx:duration>
+        <Camera>
+		<longitude>69.179000000000</longitude>
+		<latitude>34.573000000000</latitude>
+		<altitude>1000.000000000000</altitude>
+		<heading>-30.000000000000</heading>
+		<tilt>75</tilt>
+        </Camera>
+      </gx:FlyTo>
+
+        <gx:AnimatedUpdate>
+          <gx:duration>4</gx:duration>
+          <Update>
+            <targetHref>C:/Users/gjocher/Documents/MATLAB/MQ9_Animation/GEfiles/MQ9.kml</targetHref>
+            <Change>
+                <Location targetId="loc1">
+                     <longitude>69.179000000000</longitude>
+                     <latitude>34.573000000000</latitude>
+                     <altitude>1000.000000000000</altitude>
+                </Location>
+                <Orientation targetId="orient1">
+                    <heading>90.000000000000</heading>
+                    <tilt>0.000000000000</tilt>
+                    <roll>30.000000000000</roll>
+                </Orientation>
+            </Change>
+          </Update>
+        </gx:AnimatedUpdate>
+
+
+        <gx:Wait>
+          <gx:duration>4</gx:duration>  <!-- waiting for the AnimatedUpdate to complete -->
+        </gx:Wait>
+
+      </gx:Playlist>
+    </gx:Tour>
+  </Document>
+</kml>

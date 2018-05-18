@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<gx:Tour>
+	<name>Play me!</name>
+	<gx:Playlist>
+		<gx:FlyTo>
+			<gx:duration>2.5</gx:duration>
+			<Camera>
+				<longitude>0.025643</longitude>
+				<latitude>51.569857</latitude>
+				<altitude>140</altitude>
+				<heading>235</heading>
+				<tilt>70</tilt>
+				<roll>0</roll>
+				<altitudeMode>absolute</altitudeMode>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<gx:duration>60</gx:duration>
+			<Update>
+				<targetHref></targetHref>
+				<Change>
+            <Location targetId="planeLocation">
+              <longitude>-0.321658</longitude>
+              <latitude>51.429115</latitude>
+              <altitude>100</altitude>
+            </Location>
+          </Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>60</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<Camera>
+				<longitude>-0.320779</longitude>
+				<latitude>51.429527</latitude>
+				<altitude>80</altitude>
+				<heading>235</heading>
+				<tilt>100</tilt>
+				<roll>0</roll>
+				<altitudeMode>absolute</altitudeMode>
+			</Camera>
+		</gx:FlyTo>
+	</gx:Playlist>
+</gx:Tour>
+</kml>

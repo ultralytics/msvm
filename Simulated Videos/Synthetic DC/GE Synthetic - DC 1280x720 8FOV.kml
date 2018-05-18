@@ -1,0 +1,4402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>
+C:/Users/glennjocher/Google Drive/MATLAB/VSM/Imported Videos/Synthetic DC/GE Synthetic - DC 1280x720 8FOV.kml
+</name>
+<Placemark id="plot3">
+<name>Aircraft GPS</name>
+<Style><LineStyle><color>ffffffff</color><width>1.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<extrude>1</extrude>
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<extrude>1</extrude>
+<LinearRing>
+<extrude>1</extrude>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0512941,38.8762621,1203.58 
+-77.0515506,38.8764657,1203.58 
+-77.0518030,38.8766725,1203.58 
+-77.0520511,38.8768824,1203.58 
+-77.0522949,38.8770954,1203.58 
+-77.0525344,38.8773113,1203.58 
+-77.0527695,38.8775302,1203.58 
+-77.0530001,38.8777520,1203.58 
+-77.0532262,38.8779766,1203.58 
+-77.0534476,38.8782040,1203.57 
+-77.0536645,38.8784341,1203.57 
+-77.0538766,38.8786669,1203.57 
+-77.0540840,38.8789023,1203.57 
+-77.0542866,38.8791402,1203.57 
+-77.0544844,38.8793806,1203.57 
+-77.0546772,38.8796234,1203.57 
+-77.0548651,38.8798686,1203.57 
+-77.0550480,38.8801160,1203.57 
+-77.0552258,38.8803658,1203.57 
+-77.0553986,38.8806176,1203.57 
+-77.0555662,38.8808716,1203.57 
+-77.0557286,38.8811277,1203.57 
+-77.0558859,38.8813857,1203.57 
+-77.0560378,38.8816456,1203.57 
+-77.0561845,38.8819074,1203.57 
+-77.0563258,38.8821710,1203.57 
+-77.0564618,38.8824363,1203.57 
+-77.0565924,38.8827033,1203.57 
+-77.0567175,38.8829718,1203.57 
+-77.0568372,38.8832419,1203.56 
+-77.0569514,38.8835134,1203.56 
+-77.0570600,38.8837862,1203.56 
+-77.0571632,38.8840604,1203.56 
+-77.0572607,38.8843359,1203.56 
+-77.0573526,38.8846125,1203.56 
+-77.0574389,38.8848902,1203.56 
+-77.0575195,38.8851690,1203.56 
+-77.0575945,38.8854487,1203.56 
+-77.0576638,38.8857293,1203.56 
+-77.0577274,38.8860108,1203.56 
+-77.0577853,38.8862930,1203.56 
+-77.0578374,38.8865758,1203.56 
+-77.0578838,38.8868593,1203.56 
+-77.0579244,38.8871434,1203.56 
+-77.0579592,38.8874278,1203.56 
+-77.0579883,38.8877127,1203.56 
+-77.0580116,38.8879980,1203.56 
+-77.0580291,38.8882834,1203.56 
+-77.0580408,38.8885691,1203.56 
+-77.0580467,38.8888548,1203.56 
+-77.0580468,38.8891406,1203.56 
+-77.0580411,38.8894264,1203.56 
+-77.0580296,38.8897120,1203.56 
+-77.0580122,38.8899975,1203.56 
+-77.0579891,38.8902827,1203.55 
+-77.0579603,38.8905676,1203.55 
+-77.0579256,38.8908521,1203.55 
+-77.0578851,38.8911362,1203.55 
+-77.0578389,38.8914197,1203.55 
+-77.0577870,38.8917026,1203.55 
+-77.0577293,38.8919848,1203.55 
+-77.0576659,38.8922663,1203.55 
+-77.0575968,38.8925469,1203.55 
+-77.0575220,38.8928267,1203.55 
+-77.0574415,38.8931055,1203.55 
+-77.0573553,38.8933832,1203.55 
+-77.0572636,38.8936599,1203.55 
+-77.0571662,38.8939353,1203.55 
+-77.0570633,38.8942096,1203.55 
+-77.0569548,38.8944825,1203.55 
+-77.0568407,38.8947541,1203.55 
+-77.0567212,38.8950242,1203.55 
+-77.0565962,38.8952927,1203.55 
+-77.0564658,38.8955597,1203.55 
+-77.0563299,38.8958251,1203.55 
+-77.0561887,38.8960887,1203.55 
+-77.0560422,38.8963506,1203.55 
+-77.0558903,38.8966106,1203.55 
+-77.0557332,38.8968686,1203.55 
+-77.0555709,38.8971247,1203.55 
+-77.0554034,38.8973788,1203.55 
+-77.0552307,38.8976307,1203.55 
+-77.0550530,38.8978805,1203.55 
+-77.0548702,38.8981280,1203.55 
+-77.0546824,38.8983733,1203.55 
+-77.0544896,38.8986162,1203.55 
+-77.0542920,38.8988566,1203.55 
+-77.0540894,38.8990946,1203.55 
+-77.0538821,38.8993300,1203.55 
+-77.0536700,38.8995629,1203.55 
+-77.0534532,38.8997930,1203.55 
+-77.0532318,38.9000205,1203.55 
+-77.0530058,38.9002452,1203.55 
+-77.0527752,38.9004670,1203.55 
+-77.0525402,38.9006860,1203.55 
+-77.0523007,38.9009020,1203.55 
+-77.0520569,38.9011151,1203.55 
+-77.0518088,38.9013250,1203.55 
+-77.0515564,38.9015319,1203.55 
+-77.0512999,38.9017356,1203.55 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot">
+<name>GE DEM</name>
+<Style><LineStyle><color>40B3B3B3</color><width>1.00</width></LineStyle></Style>
+<LineString id="poly_plot">
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>
+-77.069578,38.861976,1 
+-77.000422,38.861976,1 
+-77.069578,38.861976,1 
+-77.069578,38.864979,1 
+-77.000422,38.864979,1 
+-77.069578,38.864979,1 
+-77.069578,38.867982,1 
+-77.000422,38.867982,1 
+-77.069578,38.867982,1 
+-77.069578,38.870984,1 
+-77.000422,38.870984,1 
+-77.069578,38.870984,1 
+-77.069578,38.873987,1 
+-77.000422,38.873987,1 
+-77.069578,38.873987,1 
+-77.069578,38.876989,1 
+-77.000422,38.876989,1 
+-77.069578,38.876989,1 
+-77.069578,38.879992,1 
+-77.000422,38.879992,1 
+-77.069578,38.879992,1 
+-77.069578,38.882995,1 
+-77.000422,38.882995,1 
+-77.069578,38.882995,1 
+-77.069578,38.885997,1 
+-77.000422,38.885997,1 
+-77.069578,38.885997,1 
+-77.069578,38.889000,1 
+-77.000422,38.889000,1 
+-77.069578,38.889000,1 
+-77.069578,38.892003,1 
+-77.000422,38.892003,1 
+-77.069578,38.892003,1 
+-77.069578,38.895005,1 
+-77.000422,38.895005,1 
+-77.069578,38.895005,1 
+-77.069578,38.898008,1 
+-77.000422,38.898008,1 
+-77.069578,38.898008,1 
+-77.069578,38.901011,1 
+-77.000422,38.901011,1 
+-77.069578,38.901011,1 
+-77.069578,38.904013,1 
+-77.000422,38.904013,1 
+-77.069578,38.904013,1 
+-77.069578,38.907016,1 
+-77.000422,38.907016,1 
+-77.069578,38.907016,1 
+-77.069578,38.910018,1 
+-77.000422,38.910018,1 
+-77.069578,38.910018,1 
+-77.069578,38.913021,1 
+-77.000422,38.913021,1 
+-77.069578,38.913021,1 
+-77.069578,38.916024,1 
+-77.000422,38.916024,1 
+-77.069578,38.916024,1 
+-77.069578,38.861976,1 
+-77.069578,38.916024,1 
+-77.069578,38.861976,1 
+-77.065736,38.861976,1 
+-77.065736,38.916024,1 
+-77.065736,38.861976,1 
+-77.061894,38.861976,1 
+-77.061894,38.916024,1 
+-77.061894,38.861976,1 
+-77.058052,38.861976,1 
+-77.058052,38.916024,1 
+-77.058052,38.861976,1 
+-77.054210,38.861976,1 
+-77.054210,38.916024,1 
+-77.054210,38.861976,1 
+-77.050368,38.861976,1 
+-77.050368,38.916024,1 
+-77.050368,38.861976,1 
+-77.046526,38.861976,1 
+-77.046526,38.916024,1 
+-77.046526,38.861976,1 
+-77.042684,38.861976,1 
+-77.042684,38.916024,1 
+-77.042684,38.861976,1 
+-77.038842,38.861976,1 
+-77.038842,38.916024,1 
+-77.038842,38.861976,1 
+-77.035000,38.861976,1 
+-77.035000,38.916024,1 
+-77.035000,38.861976,1 
+-77.031158,38.861976,1 
+-77.031158,38.916024,1 
+-77.031158,38.861976,1 
+-77.027316,38.861976,1 
+-77.027316,38.916024,1 
+-77.027316,38.861976,1 
+-77.023474,38.861976,1 
+-77.023474,38.916024,1 
+-77.023474,38.861976,1 
+-77.019632,38.861976,1 
+-77.019632,38.916024,1 
+-77.019632,38.861976,1 
+-77.015790,38.861976,1 
+-77.015790,38.916024,1 
+-77.015790,38.861976,1 
+-77.011948,38.861976,1 
+-77.011948,38.916024,1 
+-77.011948,38.861976,1 
+-77.008106,38.861976,1 
+-77.008106,38.916024,1 
+-77.008106,38.861976,1 
+-77.004264,38.861976,1 
+-77.004264,38.916024,1 
+-77.004264,38.861976,1 
+-77.000422,38.861976,1 
+-77.000422,38.916024,1 
+-77.000422,38.861976,1 
+</coordinates>
+</LineString>
+</Placemark>
+<Folder id="true Focus Points"><name>true Focus Points</name><Placemark id="plot">
+<name>Ground Focus Points</name>
+<Style><LineStyle><color>B34DFF4D</color><width>2.00</width></LineStyle></Style>
+<LineString id="poly_plot">
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>
+-77.035000,38.889000,1 
+-77.034993,38.888998,1 
+-77.034982,38.888997,1 
+-77.034972,38.889004,1 
+-77.034961,38.889006,1 
+-77.034959,38.888998,1 
+-77.034957,38.888994,1 
+-77.034966,38.888995,1 
+-77.034973,38.888993,1 
+-77.034976,38.888989,1 
+-77.034978,38.888983,1 
+-77.034990,38.888977,1 
+-77.035001,38.888965,1 
+-77.035004,38.888953,1 
+-77.035014,38.888948,1 
+-77.035018,38.888955,1 
+-77.035022,38.888962,1 
+-77.035029,38.888959,1 
+-77.035023,38.888965,1 
+-77.035026,38.888977,1 
+-77.035026,38.888994,1 
+-77.035028,38.889002,1 
+-77.035030,38.889008,1 
+-77.035027,38.889016,1 
+-77.035020,38.889022,1 
+-77.035020,38.889025,1 
+-77.035012,38.889020,1 
+-77.035003,38.889020,1 
+-77.035006,38.889031,1 
+-77.035009,38.889041,1 
+-77.034998,38.889059,1 
+-77.034979,38.889073,1 
+-77.034966,38.889085,1 
+-77.034949,38.889093,1 
+-77.034927,38.889103,1 
+-77.034918,38.889113,1 
+-77.034902,38.889111,1 
+-77.034886,38.889102,1 
+-77.034869,38.889106,1 
+-77.034854,38.889111,1 
+-77.034841,38.889116,1 
+-77.034826,38.889119,1 
+-77.034823,38.889129,1 
+-77.034820,38.889140,1 
+-77.034802,38.889150,1 
+-77.034786,38.889139,1 
+-77.034779,38.889118,1 
+-77.034785,38.889101,1 
+-77.034786,38.889093,1 
+-77.034780,38.889080,1 
+-77.034776,38.889070,1 
+-77.034770,38.889066,1 
+-77.034778,38.889059,1 
+-77.034779,38.889059,1 
+-77.034782,38.889062,1 
+-77.034777,38.889063,1 
+-77.034767,38.889062,1 
+-77.034762,38.889067,1 
+-77.034758,38.889076,1 
+-77.034756,38.889085,1 
+-77.034746,38.889092,1 
+-77.034741,38.889102,1 
+-77.034746,38.889115,1 
+-77.034758,38.889122,1 
+-77.034779,38.889129,1 
+-77.034788,38.889143,1 
+-77.034804,38.889159,1 
+-77.034817,38.889178,1 
+-77.034837,38.889197,1 
+-77.034870,38.889220,1 
+-77.034896,38.889234,1 
+-77.034919,38.889244,1 
+-77.034939,38.889249,1 
+-77.034948,38.889243,1 
+-77.034954,38.889238,1 
+-77.034966,38.889226,1 
+-77.034975,38.889210,1 
+-77.034987,38.889187,1 
+-77.035000,38.889163,1 
+-77.035013,38.889144,1 
+-77.035033,38.889124,1 
+-77.035055,38.889104,1 
+-77.035062,38.889089,1 
+-77.035068,38.889078,1 
+-77.035072,38.889063,1 
+-77.035051,38.889042,1 
+-77.035031,38.889014,1 
+-77.035017,38.888984,1 
+-77.035017,38.888955,1 
+-77.035013,38.888937,1 
+-77.035013,38.888929,1 
+-77.035016,38.888925,1 
+-77.035029,38.888930,1 
+-77.035044,38.888937,1 
+-77.035064,38.888944,1 
+-77.035085,38.888957,1 
+-77.035100,38.888963,1 
+-77.035101,38.888967,1 
+-77.035086,38.888977,1 
+-77.035083,38.888990,1 
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="plot3">
+<name>Focus Vectors</name>
+<Style><LineStyle><color>B34DFF4D</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0512941,38.8762621,1203.58 
+-77.0350000,38.8889999,10.73 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Folder><Placemark id="plot">
+<name>Image Projections on Ground</name>
+<Style><LineStyle><color>80FFFFFF</color><width>1.00</width></LineStyle></Style>
+<LineString id="poly_plot">
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>
+-77.034764,38.891417,1 
+-77.031997,38.889125,1 
+-77.035066,38.886997,1 
+-77.037549,38.888961,1 
+-77.034764,38.891417,1 
+-77.034706,38.891412,1 
+-77.031989,38.889085,1 
+-77.035100,38.886997,1 
+-77.037543,38.888991,1 
+-77.034706,38.891412,1 
+-77.034645,38.891408,1 
+-77.031977,38.889044,1 
+-77.035130,38.886997,1 
+-77.037534,38.889021,1 
+-77.034645,38.891408,1 
+-77.034585,38.891412,1 
+-77.031966,38.889014,1 
+-77.035161,38.887005,1 
+-77.037525,38.889059,1 
+-77.034585,38.891412,1 
+-77.034523,38.891410,1 
+-77.031955,38.888977,1 
+-77.035190,38.887009,1 
+-77.037514,38.889092,1 
+-77.034523,38.891410,1 
+-77.034472,38.891396,1 
+-77.031955,38.888931,1 
+-77.035229,38.887006,1 
+-77.037510,38.889117,1 
+-77.034472,38.891396,1 
+-77.034421,38.891385,1 
+-77.031955,38.888889,1 
+-77.035266,38.887006,1 
+-77.037505,38.889145,1 
+-77.034421,38.891385,1 
+-77.034382,38.891379,1 
+-77.031967,38.888854,1 
+-77.035313,38.887012,1 
+-77.037509,38.889177,1 
+-77.034382,38.891379,1 
+-77.034342,38.891369,1 
+-77.031979,38.888815,1 
+-77.035358,38.887016,1 
+-77.037511,38.889207,1 
+-77.034342,38.891369,1 
+-77.034298,38.891355,1 
+-77.031988,38.888772,1 
+-77.035400,38.887018,1 
+-77.037510,38.889234,1 
+-77.034298,38.891355,1 
+-77.034251,38.891340,1 
+-77.031995,38.888729,1 
+-77.035440,38.887019,1 
+-77.037505,38.889260,1 
+-77.034251,38.891340,1 
+-77.034218,38.891323,1 
+-77.032016,38.888686,1 
+-77.035490,38.887021,1 
+-77.037510,38.889286,1 
+-77.034218,38.891323,1 
+-77.034184,38.891297,1 
+-77.032037,38.888635,1 
+-77.035539,38.887017,1 
+-77.037512,38.889305,1 
+-77.034184,38.891297,1 
+-77.034141,38.891272,1 
+-77.032051,38.888584,1 
+-77.035581,38.887013,1 
+-77.037507,38.889325,1 
+-77.034141,38.891272,1 
+-77.034106,38.891255,1 
+-77.032072,38.888542,1 
+-77.035629,38.887017,1 
+-77.037509,38.889351,1 
+-77.034106,38.891255,1 
+-77.034064,38.891250,1 
+-77.032084,38.888513,1 
+-77.035671,38.887032,1 
+-77.037505,38.889388,1 
+-77.034064,38.891250,1 
+-77.034022,38.891246,1 
+-77.032097,38.888485,1 
+-77.035712,38.887047,1 
+-77.037500,38.889425,1 
+-77.034022,38.891246,1 
+-77.033986,38.891229,1 
+-77.032117,38.888445,1 
+-77.035757,38.887054,1 
+-77.037498,38.889453,1 
+-77.033986,38.891229,1 
+-77.033933,38.891223,1 
+-77.032120,38.888415,1 
+-77.035788,38.887068,1 
+-77.037483,38.889488,1 
+-77.033933,38.891223,1 
+-77.033891,38.891223,1 
+-77.032132,38.888394,1 
+-77.035828,38.887090,1 
+-77.037476,38.889530,1 
+-77.033891,38.891223,1 
+-77.033846,38.891227,1 
+-77.032142,38.888376,1 
+-77.035864,38.887116,1 
+-77.037466,38.889575,1 
+-77.033846,38.891227,1 
+-77.033804,38.891221,1 
+-77.032157,38.888350,1 
+-77.035902,38.887135,1 
+-77.037457,38.889613,1 
+-77.033804,38.891221,1 
+-77.033762,38.891211,1 
+-77.032172,38.888320,1 
+-77.035940,38.887151,1 
+-77.037447,38.889648,1 
+-77.033762,38.891211,1 
+-77.033714,38.891205,1 
+-77.032181,38.888294,1 
+-77.035974,38.887171,1 
+-77.037432,38.889685,1 
+-77.033714,38.891205,1 
+-77.033663,38.891195,1 
+-77.032189,38.888265,1 
+-77.036005,38.887188,1 
+-77.037414,38.889720,1 
+-77.033663,38.891195,1 
+-77.033620,38.891181,1 
+-77.032204,38.888233,1 
+-77.036040,38.887203,1 
+-77.037400,38.889752,1 
+-77.033620,38.891181,1 
+-77.033568,38.891158,1 
+-77.032213,38.888192,1 
+-77.036070,38.887211,1 
+-77.037378,38.889777,1 
+-77.033568,38.891158,1 
+-77.033515,38.891141,1 
+-77.032220,38.888158,1 
+-77.036098,38.887225,1 
+-77.037355,38.889807,1 
+-77.033515,38.891141,1 
+-77.033477,38.891132,1 
+-77.032241,38.888134,1 
+-77.036136,38.887248,1 
+-77.037343,38.889844,1 
+-77.033477,38.891132,1 
+-77.033441,38.891125,1 
+-77.032263,38.888112,1 
+-77.036174,38.887272,1 
+-77.037331,38.889883,1 
+-77.033441,38.891125,1 
+-77.033388,38.891124,1 
+-77.032269,38.888097,1 
+-77.036199,38.887302,1 
+-77.037307,38.889927,1 
+-77.033388,38.891124,1 
+-77.033328,38.891121,1 
+-77.032267,38.888078,1 
+-77.036218,38.887330,1 
+-77.037277,38.889969,1 
+-77.033328,38.891121,1 
+-77.033274,38.891113,1 
+-77.032272,38.888057,1 
+-77.036241,38.887355,1 
+-77.037249,38.890007,1 
+-77.033274,38.891113,1 
+-77.033215,38.891102,1 
+-77.032273,38.888032,1 
+-77.036260,38.887378,1 
+-77.037217,38.890043,1 
+-77.033215,38.891102,1 
+-77.033152,38.891092,1 
+-77.032271,38.888008,1 
+-77.036276,38.887403,1 
+-77.037181,38.890080,1 
+-77.033152,38.891092,1 
+-77.033104,38.891081,1 
+-77.032283,38.887986,1 
+-77.036302,38.887428,1 
+-77.037156,38.890117,1 
+-77.033104,38.891081,1 
+-77.033047,38.891056,1 
+-77.032289,38.887951,1 
+-77.036321,38.887443,1 
+-77.037121,38.890143,1 
+-77.033047,38.891056,1 
+-77.032990,38.891025,1 
+-77.032296,38.887909,1 
+-77.036341,38.887452,1 
+-77.037086,38.890163,1 
+-77.032990,38.891025,1 
+-77.032934,38.891006,1 
+-77.032301,38.887880,1 
+-77.036358,38.887473,1 
+-77.037051,38.890193,1 
+-77.032934,38.891006,1 
+-77.032881,38.890988,1 
+-77.032310,38.887853,1 
+-77.036378,38.887496,1 
+-77.037018,38.890225,1 
+-77.032881,38.890988,1 
+-77.032830,38.890969,1 
+-77.032320,38.887827,1 
+-77.036398,38.887519,1 
+-77.036985,38.890256,1 
+-77.032830,38.890969,1 
+-77.032778,38.890948,1 
+-77.032330,38.887799,1 
+-77.036417,38.887540,1 
+-77.036950,38.890285,1 
+-77.032778,38.890948,1 
+-77.032740,38.890934,1 
+-77.032354,38.887780,1 
+-77.036445,38.887570,1 
+-77.036926,38.890320,1 
+-77.032740,38.890934,1 
+-77.032704,38.890920,1 
+-77.032378,38.887761,1 
+-77.036473,38.887600,1 
+-77.036901,38.890356,1 
+-77.032704,38.890920,1 
+-77.032650,38.890905,1 
+-77.032386,38.887741,1 
+-77.036488,38.887628,1 
+-77.036863,38.890390,1 
+-77.032650,38.890905,1 
+-77.032597,38.890867,1 
+-77.032397,38.887699,1 
+-77.036504,38.887639,1 
+-77.036824,38.890406,1 
+-77.032597,38.890867,1 
+-77.032554,38.890817,1 
+-77.032421,38.887647,1 
+-77.036528,38.887641,1 
+-77.036789,38.890412,1 
+-77.032554,38.890817,1 
+-77.032526,38.890770,1 
+-77.032459,38.887600,1 
+-77.036562,38.887647,1 
+-77.036764,38.890421,1 
+-77.032526,38.890770,1 
+-77.032495,38.890733,1 
+-77.032492,38.887562,1 
+-77.036591,38.887661,1 
+-77.036736,38.890437,1 
+-77.032495,38.890733,1 
+-77.032456,38.890691,1 
+-77.032518,38.887520,1 
+-77.036614,38.887672,1 
+-77.036700,38.890450,1 
+-77.032456,38.890691,1 
+-77.032420,38.890651,1 
+-77.032547,38.887482,1 
+-77.036639,38.887685,1 
+-77.036667,38.890464,1 
+-77.032420,38.890651,1 
+-77.032383,38.890617,1 
+-77.032574,38.887450,1 
+-77.036662,38.887704,1 
+-77.036632,38.890483,1 
+-77.032383,38.890617,1 
+-77.032362,38.890579,1 
+-77.032616,38.887416,1 
+-77.036695,38.887721,1 
+-77.036607,38.890499,1 
+-77.032362,38.890579,1 
+-77.032335,38.890550,1 
+-77.032652,38.887390,1 
+-77.036723,38.887745,1 
+-77.036578,38.890522,1 
+-77.032335,38.890550,1 
+-77.032311,38.890523,1 
+-77.032690,38.887368,1 
+-77.036751,38.887772,1 
+-77.036550,38.890546,1 
+-77.032311,38.890523,1 
+-77.032277,38.890493,1 
+-77.032719,38.887343,1 
+-77.036772,38.887797,1 
+-77.036514,38.890569,1 
+-77.032277,38.890493,1 
+-77.032239,38.890462,1 
+-77.032743,38.887317,1 
+-77.036789,38.887821,1 
+-77.036473,38.890590,1 
+-77.032239,38.890462,1 
+-77.032209,38.890436,1 
+-77.032773,38.887297,1 
+-77.036809,38.887850,1 
+-77.036437,38.890615,1 
+-77.032209,38.890436,1 
+-77.032180,38.890415,1 
+-77.032805,38.887283,1 
+-77.036829,38.887884,1 
+-77.036401,38.890644,1 
+-77.032180,38.890415,1 
+-77.032154,38.890394,1 
+-77.032837,38.887269,1 
+-77.036851,38.887918,1 
+-77.036367,38.890672,1 
+-77.032154,38.890394,1 
+-77.032119,38.890370,1 
+-77.032861,38.887253,1 
+-77.036865,38.887950,1 
+-77.036325,38.890698,1 
+-77.032119,38.890370,1 
+-77.032091,38.890348,1 
+-77.032891,38.887240,1 
+-77.036883,38.887985,1 
+-77.036288,38.890726,1 
+-77.032091,38.890348,1 
+-77.032076,38.890330,1 
+-77.032932,38.887232,1 
+-77.036909,38.888024,1 
+-77.036259,38.890757,1 
+-77.032076,38.890330,1 
+-77.032069,38.890304,1 
+-77.032983,38.887218,1 
+-77.036941,38.888058,1 
+-77.036236,38.890781,1 
+-77.032069,38.890304,1 
+-77.032073,38.890278,1 
+-77.033043,38.887206,1 
+-77.036979,38.888092,1 
+-77.036219,38.890804,1 
+-77.032073,38.890278,1 
+-77.032065,38.890260,1 
+-77.033091,38.887201,1 
+-77.037007,38.888133,1 
+-77.036194,38.890834,1 
+-77.032065,38.890260,1 
+-77.032065,38.890243,1 
+-77.033146,38.887198,1 
+-77.037040,38.888175,1 
+-77.036173,38.890864,1 
+-77.032065,38.890243,1 
+-77.032063,38.890229,1 
+-77.033199,38.887200,1 
+-77.037070,38.888221,1 
+-77.036150,38.890897,1 
+-77.032063,38.890229,1 
+-77.032070,38.890216,1 
+-77.033261,38.887203,1 
+-77.037106,38.888268,1 
+-77.036133,38.890930,1 
+-77.032070,38.890216,1 
+-77.032093,38.890206,1 
+-77.033337,38.887211,1 
+-77.037152,38.888318,1 
+-77.036128,38.890965,1 
+-77.032093,38.890206,1 
+-77.032107,38.890186,1 
+-77.033405,38.887210,1 
+-77.037191,38.888361,1 
+-77.036115,38.890992,1 
+-77.032107,38.890186,1 
+-77.032118,38.890162,1 
+-77.033471,38.887204,1 
+-77.037228,38.888399,1 
+-77.036099,38.891014,1 
+-77.032118,38.890162,1 
+-77.032126,38.890132,1 
+-77.033533,38.887193,1 
+-77.037261,38.888433,1 
+-77.036079,38.891031,1 
+-77.032126,38.890132,1 
+-77.032119,38.890090,1 
+-77.033584,38.887169,1 
+-77.037285,38.888457,1 
+-77.036049,38.891039,1 
+-77.032119,38.890090,1 
+-77.032112,38.890050,1 
+-77.033632,38.887147,1 
+-77.037307,38.888482,1 
+-77.036016,38.891047,1 
+-77.032112,38.890050,1 
+-77.032110,38.890000,1 
+-77.033687,38.887117,1 
+-77.037332,38.888500,1 
+-77.035988,38.891047,1 
+-77.032110,38.890000,1 
+-77.032105,38.889947,1 
+-77.033738,38.887084,1 
+-77.037355,38.888515,1 
+-77.035956,38.891044,1 
+-77.032105,38.889947,1 
+-77.032103,38.889885,1 
+-77.033793,38.887042,1 
+-77.037380,38.888524,1 
+-77.035926,38.891034,1 
+-77.032103,38.889885,1 
+-77.032103,38.889822,1 
+-77.033850,38.887000,1 
+-77.037405,38.888531,1 
+-77.035897,38.891021,1 
+-77.032103,38.889822,1 
+-77.032104,38.889764,1 
+-77.033907,38.886965,1 
+-77.037430,38.888544,1 
+-77.035868,38.891014,1 
+-77.032104,38.889764,1 
+-77.032113,38.889706,1 
+-77.033972,38.886930,1 
+-77.037460,38.888557,1 
+-77.035845,38.891005,1 
+-77.032113,38.889706,1 
+-77.032126,38.889647,1 
+-77.034039,38.886894,1 
+-77.037492,38.888568,1 
+-77.035823,38.890994,1 
+-77.032126,38.889647,1 
+-77.032124,38.889594,1 
+-77.034091,38.886864,1 
+-77.037510,38.888585,1 
+-77.035789,38.890988,1 
+-77.032124,38.889594,1 
+-77.032122,38.889546,1 
+-77.034142,38.886840,1 
+-77.037526,38.888606,1 
+-77.035754,38.890987,1 
+-77.032122,38.889546,1 
+-77.032116,38.889493,1 
+-77.034189,38.886810,1 
+-77.037539,38.888623,1 
+-77.035716,38.890980,1 
+-77.032116,38.889493,1 
+-77.032084,38.889434,1 
+-77.034211,38.886773,1 
+-77.037531,38.888634,1 
+-77.035657,38.890970,1 
+-77.032084,38.889434,1 
+-77.032053,38.889368,1 
+-77.034234,38.886729,1 
+-77.037524,38.888639,1 
+-77.035598,38.890953,1 
+-77.032053,38.889368,1 
+-77.032030,38.889299,1 
+-77.034265,38.886684,1 
+-77.037522,38.888643,1 
+-77.035545,38.890933,1 
+-77.032030,38.889299,1 
+-77.032025,38.889232,1 
+-77.034312,38.886642,1 
+-77.037533,38.888648,1 
+-77.035505,38.890913,1 
+-77.032025,38.889232,1 
+-77.032016,38.889176,1 
+-77.034354,38.886612,1 
+-77.037538,38.888664,1 
+-77.035461,38.890903,1 
+-77.032016,38.889176,1 
+-77.032012,38.889130,1 
+-77.034400,38.886593,1 
+-77.037544,38.888688,1 
+-77.035421,38.890901,1 
+-77.032012,38.889130,1 
+-77.032014,38.889090,1 
+-77.034450,38.886581,1 
+-77.037553,38.888716,1 
+-77.035383,38.890902,1 
+-77.032014,38.889090,1 
+-77.032028,38.889059,1 
+-77.034511,38.886580,1 
+-77.037569,38.888753,1 
+-77.035355,38.890910,1 
+-77.032028,38.889059,1 
+-77.032045,38.889030,1 
+-77.034574,38.886582,1 
+-77.037586,38.888792,1 
+-77.035328,38.890919,1 
+-77.032045,38.889030,1 
+-77.032068,38.889002,1 
+-77.034642,38.886585,1 
+-77.037607,38.888831,1 
+-77.035305,38.890928,1 
+-77.032068,38.889002,1 
+-77.032093,38.888979,1 
+-77.034713,38.886595,1 
+-77.037628,38.888876,1 
+-77.035285,38.890941,1 
+-77.032093,38.888979,1 
+-77.032111,38.888948,1 
+-77.034776,38.886597,1 
+-77.037643,38.888914,1 
+-77.035257,38.890948,1 
+-77.032111,38.888948,1 
+-77.032113,38.888915,1 
+-77.034824,38.886597,1 
+-77.037645,38.888950,1 
+-77.035218,38.890953,1 
+-77.032113,38.888915,1 
+-77.032098,38.888889,1 
+-77.034853,38.886603,1 
+-77.037631,38.888990,1 
+-77.035164,38.890964,1 
+-77.032098,38.888889,1 
+-77.032099,38.888866,1 
+-77.034897,38.886613,1 
+-77.037627,38.889033,1 
+-77.035121,38.890976,1 
+-77.032099,38.888866,1 
+</coordinates>
+</LineString>
+</Placemark>
+<Folder id="Image 1 Projection"><name>Image 1 Projection</name><Placemark id="plot">
+<name>Image 1 Projection on Ground</name>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle></Style>
+<LineString id="poly_plot">
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>
+-77.034764,38.891417,1 
+-77.031997,38.889125,1 
+-77.035066,38.886997,1 
+-77.037549,38.888961,1 
+-77.034764,38.891417,1 
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="plot3">
+<name>Image 1 Projection Sides</name>
+<Style><LineStyle><color>ffffffff</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0512941,38.8762621,1203.58 
+-77.0347636,38.8914166,3.65 
+-77.0512941,38.8762621,1203.58 
+-77.0319966,38.8891253,9.15 
+-77.0512941,38.8762621,1203.58 
+-77.0350660,38.8869970,6.65 
+-77.0512941,38.8762621,1203.58 
+-77.0375485,38.8889613,5.41 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Folder><Folder id="true LOS"><name>true LOS</name><Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:32Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0512941,38.8762621,1203.58 
+-77.0350000,38.8889999,10.73 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:33Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0515506,38.8764657,1203.58 
+-77.0349930,38.8889984,10.73 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:34Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0518030,38.8766725,1203.58 
+-77.0349822,38.8889971,10.73 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:35Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0520511,38.8768824,1203.58 
+-77.0349722,38.8890040,10.71 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:36Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0522949,38.8770954,1203.58 
+-77.0349608,38.8890055,10.70 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:36Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0525344,38.8773113,1203.58 
+-77.0349592,38.8889980,10.72 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:37Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0527695,38.8775302,1203.58 
+-77.0349574,38.8889935,10.72 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:38Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0530001,38.8777520,1203.58 
+-77.0349658,38.8889951,10.72 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:39Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0532262,38.8779766,1203.58 
+-77.0349728,38.8889934,10.72 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:40Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0534476,38.8782040,1203.57 
+-77.0349763,38.8889888,10.73 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:40Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0536645,38.8784341,1203.57 
+-77.0349776,38.8889832,10.73 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:41Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0538766,38.8786669,1203.57 
+-77.0349899,38.8889774,10.70 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:42Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0540840,38.8789023,1203.57 
+-77.0350006,38.8889649,10.66 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:43Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0542866,38.8791402,1203.57 
+-77.0350037,38.8889529,10.63 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:44Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0544844,38.8793806,1203.57 
+-77.0350141,38.8889480,10.60 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:44Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0546772,38.8796234,1203.57 
+-77.0350181,38.8889547,10.60 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:45Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0548651,38.8798686,1203.57 
+-77.0350218,38.8889622,10.61 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:46Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0550480,38.8801160,1203.57 
+-77.0350294,38.8889591,10.59 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:47Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0552258,38.8803658,1203.57 
+-77.0350233,38.8889646,10.61 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:48Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0553986,38.8806176,1203.57 
+-77.0350261,38.8889774,10.63 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:48Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0555662,38.8808716,1203.57 
+-77.0350263,38.8889940,10.67 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:49Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0557286,38.8811277,1203.57 
+-77.0350284,38.8890023,10.67 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:50Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0558859,38.8813857,1203.57 
+-77.0350300,38.8890077,10.67 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:51Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0560378,38.8816456,1203.57 
+-77.0350268,38.8890164,10.68 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:52Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0561845,38.8819074,1203.57 
+-77.0350201,38.8890223,10.67 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:52Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0563258,38.8821710,1203.57 
+-77.0350196,38.8890249,10.67 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:53Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0564618,38.8824363,1203.57 
+-77.0350119,38.8890197,10.68 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:54Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0565924,38.8827033,1203.57 
+-77.0350025,38.8890205,10.67 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:55Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0567175,38.8829718,1203.57 
+-77.0350057,38.8890306,10.64 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:56Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0568372,38.8832419,1203.56 
+-77.0350091,38.8890414,10.61 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:56Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0569514,38.8835134,1203.56 
+-77.0349977,38.8890587,10.56 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:57Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0570600,38.8837862,1203.56 
+-77.0349794,38.8890734,10.51 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:58Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0571632,38.8840604,1203.56 
+-77.0349661,38.8890847,10.47 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:59Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0572607,38.8843359,1203.56 
+-77.0349485,38.8890931,10.44 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:00Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0573526,38.8846125,1203.56 
+-77.0349274,38.8891028,10.40 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:00Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0574389,38.8848902,1203.56 
+-77.0349184,38.8891126,10.37 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:01Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0575195,38.8851690,1203.56 
+-77.0349022,38.8891106,10.37 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:02Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0575945,38.8854487,1203.56 
+-77.0348862,38.8891022,10.39 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:03Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0576638,38.8857293,1203.56 
+-77.0348686,38.8891059,10.37 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:04Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0577274,38.8860108,1203.56 
+-77.0348543,38.8891109,10.35 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:04Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0577853,38.8862930,1203.56 
+-77.0348406,38.8891160,10.33 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:05Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0578374,38.8865758,1203.56 
+-77.0348261,38.8891187,10.32 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:06Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0578838,38.8868593,1203.56 
+-77.0348231,38.8891293,10.28 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:07Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0579244,38.8871434,1203.56 
+-77.0348199,38.8891402,10.25 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:08Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0579592,38.8874278,1203.56 
+-77.0348019,38.8891495,10.22 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:08Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0579883,38.8877127,1203.56 
+-77.0347856,38.8891390,10.24 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:09Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580116,38.8879980,1203.56 
+-77.0347791,38.8891183,10.30 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:10Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580291,38.8882834,1203.56 
+-77.0347845,38.8891012,10.35 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:11Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580408,38.8885691,1203.56 
+-77.0347855,38.8890927,10.38 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:12Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580467,38.8888548,1203.56 
+-77.0347795,38.8890800,10.41 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:12Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580468,38.8891406,1203.56 
+-77.0347760,38.8890704,10.44 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:13Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580411,38.8894264,1203.56 
+-77.0347704,38.8890659,10.45 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:14Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580296,38.8897120,1203.56 
+-77.0347779,38.8890587,10.47 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:15Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580122,38.8899975,1203.56 
+-77.0347794,38.8890590,10.47 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:16Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0579891,38.8902827,1203.55 
+-77.0347823,38.8890620,10.46 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:16Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0579603,38.8905676,1203.55 
+-77.0347769,38.8890629,10.46 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:17Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0579256,38.8908521,1203.55 
+-77.0347670,38.8890624,10.46 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:18Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0578851,38.8911362,1203.55 
+-77.0347623,38.8890669,10.44 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:19Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0578389,38.8914197,1203.55 
+-77.0347584,38.8890763,10.41 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:20Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0577870,38.8917026,1203.55 
+-77.0347564,38.8890854,10.38 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:20Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0577293,38.8919848,1203.55 
+-77.0347458,38.8890924,10.36 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:21Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0576659,38.8922663,1203.55 
+-77.0347410,38.8891016,10.33 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:22Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0575968,38.8925469,1203.55 
+-77.0347456,38.8891150,10.29 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:23Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0575220,38.8928267,1203.55 
+-77.0347582,38.8891218,10.28 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:24Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0574415,38.8931055,1203.55 
+-77.0347788,38.8891290,10.27 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:24Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0573553,38.8933832,1203.55 
+-77.0347883,38.8891434,10.23 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:25Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0572636,38.8936599,1203.55 
+-77.0348043,38.8891588,10.19 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:26Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0571662,38.8939353,1203.55 
+-77.0348169,38.8891777,10.14 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:27Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0570633,38.8942096,1203.55 
+-77.0348373,38.8891970,10.10 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:28Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0569548,38.8944825,1203.55 
+-77.0348703,38.8892198,10.04 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:28Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0568407,38.8947541,1203.55 
+-77.0348961,38.8892345,10.01 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:29Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0567212,38.8950242,1203.55 
+-77.0349192,38.8892441,9.99 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:30Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0565962,38.8952927,1203.55 
+-77.0349390,38.8892491,9.99 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:31Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0564658,38.8955597,1203.55 
+-77.0349476,38.8892431,10.01 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:32Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0563299,38.8958251,1203.55 
+-77.0349543,38.8892384,10.02 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:32Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0561887,38.8960887,1203.55 
+-77.0349663,38.8892255,10.07 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:33Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0560422,38.8963506,1203.55 
+-77.0349753,38.8892104,10.11 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:34Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0558903,38.8966106,1203.55 
+-77.0349868,38.8891870,10.18 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:35Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0557332,38.8968686,1203.55 
+-77.0350002,38.8891626,10.26 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:36Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0555709,38.8971247,1203.55 
+-77.0350133,38.8891437,10.32 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:36Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0554034,38.8973788,1203.55 
+-77.0350328,38.8891244,10.38 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:37Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0552307,38.8976307,1203.55 
+-77.0350547,38.8891039,10.45 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:38Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0550530,38.8978805,1203.55 
+-77.0350620,38.8890886,10.50 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:39Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0548702,38.8981280,1203.55 
+-77.0350682,38.8890785,10.53 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:40Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0546824,38.8983733,1203.55 
+-77.0350715,38.8890628,10.58 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:40Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0544896,38.8986162,1203.55 
+-77.0350507,38.8890418,10.63 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:41Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0542920,38.8988566,1203.55 
+-77.0350314,38.8890142,10.67 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:42Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0540894,38.8990946,1203.55 
+-77.0350172,38.8889844,10.66 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:43Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0538821,38.8993300,1203.55 
+-77.0350173,38.8889553,10.61 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:44Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0536700,38.8995629,1203.55 
+-77.0350133,38.8889374,10.58 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:44Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0534532,38.8997930,1203.55 
+-77.0350131,38.8889285,10.56 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:45Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0532318,38.9000205,1203.55 
+-77.0350163,38.8889245,10.55 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:46Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0530058,38.9002452,1203.55 
+-77.0350291,38.8889298,10.53 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:47Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0527752,38.9004670,1203.55 
+-77.0350441,38.8889368,10.52 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:48Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0525402,38.9006860,1203.55 
+-77.0350637,38.8889440,10.49 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:48Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0523007,38.9009020,1203.55 
+-77.0350851,38.8889574,10.47 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:49Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0520569,38.9011151,1203.55 
+-77.0350996,38.8889629,10.45 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:50Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0518088,38.9013250,1203.55 
+-77.0351007,38.8889671,10.46 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:51Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0515564,38.9015319,1203.55 
+-77.0350860,38.8889768,10.51 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:52Z</when></TimeStamp>
+<Style><LineStyle><color>FFFFFFFF</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0512999,38.9017356,1203.55 
+-77.0350835,38.8889896,10.54 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Folder><GroundOverlay>
+	<name>PNG Overlay</name>
+	<color>bdffffff</color>
+	<Icon>
+		<href>C:/Users/glennjocher/Google Drive/MATLAB/VSM/Imported Videos/Synthetic DC/GE Synthetic - DC 1280x720 8FOV MSV.png</href>
+       <refreshMode>onInterval</refreshMode>
+       <refreshInterval>1</refreshInterval>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>38.921569</north>
+		<south>38.856387</south>
+		<east>-77.083450</east>
+		<west>-77.025884</west>
+	</LatLonBox>
+</GroundOverlay><Folder id="MSV Points"><name>MSV Points</name><Style id="a"><IconStyle><scale>0.4</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href></Icon></IconStyle></Style>
+
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035662,38.888902,44.64</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035576,38.888907,45.13</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034411,38.888422,43.69</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034515,38.888007,42.22</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034255,38.8881,42.78</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035201,38.89018,48.8</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034528,38.888059,42.23</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.033881,38.888242,44.65</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034491,38.888395,43.26</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034501,38.887961,42.29</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.03475,38.887953,41.56</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034467,38.887873,42.83</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034607,38.888064,41.89</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035732,38.888903,44.32</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035746,38.889325,46.25</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035071,38.889054,48.23</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034054,38.888688,44.9</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034956,38.890152,49.06</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034899,38.888309,42.9</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.033742,38.888019,46.17</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.033786,38.888358,43.97</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034907,38.888166,42.23</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.033734,38.888424,44.89</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035116,38.890007,49.21</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034345,38.8886,44.2</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035359,38.889831,49.35</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.03481,38.888233,42.4</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034487,38.888441,43.42</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034351,38.888512,44.05</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035629,38.889779,48.07</coordinates></Point></Placemark>
+</Folder><Folder id="NLS Points"><name>NLS Points</name><Style id="a"><IconStyle><scale>0.4</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href></Icon></IconStyle></Style>
+
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035837,38.888775,28.16</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035751,38.888779,28.57</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034593,38.888293,26.65</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.0347,38.887879,25.64</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.03444,38.887971,25.9</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035365,38.890051,30.63</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034713,38.887931,25.64</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034066,38.888113,27.31</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034673,38.888266,26.31</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034687,38.887832,25.75</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034935,38.887825,25.25</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034653,38.887745,26.35</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034792,38.887936,25.38</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035907,38.888776,27.89</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035917,38.889197,29.44</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035244,38.888926,31.08</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034234,38.888558,27.25</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035121,38.890023,30.71</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035081,38.888182,26.39</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.033928,38.88789,28.91</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.03397,38.888229,26.45</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.03509,38.888038,25.86</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.033918,38.888294,27.26</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035281,38.889878,31.15</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034525,38.888471,26.89</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035526,38.889702,31.66</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034992,38.888105,25.87</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034668,38.888312,26.39</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.034532,38.888383,26.83</coordinates></Point></Placemark>
+<Placemark><styleUrl>#a</styleUrl><Point><altitudeMode>absolute</altitudeMode><extrude>1</extrude><coordinates>-77.035796,38.88965,30.68</coordinates></Point></Placemark>
+</Folder><Folder id="MSV LOS"><name>MSV LOS</name><Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:32Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0512857,38.8762515,1206.93 
+-77.0341847,38.8895645,8.77 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:33Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0515425,38.8764552,1206.95 
+-77.0341691,38.8895555,8.79 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:34Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0517951,38.8766621,1206.97 
+-77.0341497,38.8895466,8.80 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:35Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0520436,38.8768721,1206.98 
+-77.0341300,38.8895470,8.79 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:36Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0522877,38.8770851,1207.00 
+-77.0341102,38.8895412,8.80 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:36Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0525276,38.8773011,1207.02 
+-77.0341016,38.8895250,8.85 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:37Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0527631,38.8775199,1207.04 
+-77.0340925,38.8895125,8.88 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:38Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0529941,38.8777416,1207.06 
+-77.0340935,38.8895064,8.90 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:39Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0532207,38.8779662,1207.09 
+-77.0340936,38.8894964,8.93 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:40Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0534427,38.8781935,1207.12 
+-77.0340906,38.8894833,8.96 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:40Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0536601,38.8784235,1207.14 
+-77.0340856,38.8894689,9.00 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:41Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0538730,38.8786563,1207.19 
+-77.0340923,38.8894543,9.05 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:42Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0540810,38.8788916,1207.22 
+-77.0340984,38.8894320,9.11 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:43Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0542843,38.8791296,1207.25 
+-77.0340972,38.8894103,9.18 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:44Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0544827,38.8793699,1207.29 
+-77.0341022,38.8893965,9.22 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:44Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0546764,38.8796126,1207.31 
+-77.0340995,38.8893953,9.22 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:45Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0548650,38.8798577,1207.32 
+-77.0340963,38.8893952,9.22 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:46Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0550486,38.8801050,1207.34 
+-77.0340988,38.8893831,9.26 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:47Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0552273,38.8803545,1207.35 
+-77.0340859,38.8893807,9.26 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:48Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0554009,38.8806063,1207.37 
+-77.0340811,38.8893863,9.24 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:48Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0555694,38.8808602,1207.37 
+-77.0340735,38.8893957,9.21 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:49Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0557327,38.8811161,1207.36 
+-77.0340696,38.8893959,9.21 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:50Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0558906,38.8813741,1207.36 
+-77.0340652,38.8893928,9.21 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:51Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0560434,38.8816340,1207.34 
+-77.0340558,38.8893932,9.21 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:52Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0561907,38.8818957,1207.35 
+-77.0340435,38.8893907,9.21 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:52Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0563325,38.8821592,1207.33 
+-77.0340383,38.8893844,9.23 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:53Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0564689,38.8824244,1207.32 
+-77.0340268,38.8893695,9.27 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:54Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0565999,38.8826913,1207.32 
+-77.0340129,38.8893611,9.28 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:55Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0567254,38.8829597,1207.32 
+-77.0340108,38.8893627,9.28 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:56Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0568454,38.8832296,1207.32 
+-77.0340086,38.8893652,9.27 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:56Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0569600,38.8835010,1207.32 
+-77.0339900,38.8893748,9.24 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:57Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0570690,38.8837738,1207.31 
+-77.0339650,38.8893812,9.21 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:58Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0571724,38.8840478,1207.31 
+-77.0339458,38.8893841,9.19 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:03:59Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0572704,38.8843231,1207.33 
+-77.0339230,38.8893836,9.18 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:00Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0573628,38.8845996,1207.34 
+-77.0338974,38.8893841,9.17 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:00Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0574496,38.8848771,1207.36 
+-77.0338840,38.8893849,9.16 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:01Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0575307,38.8851556,1207.39 
+-77.0338660,38.8893729,9.19 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:02Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0576061,38.8854352,1207.41 
+-77.0338494,38.8893542,9.24 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:03Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0576760,38.8857158,1207.44 
+-77.0338293,38.8893483,9.25 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:04Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0577402,38.8859971,1207.47 
+-77.0338120,38.8893437,9.25 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:04Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0577985,38.8862792,1207.50 
+-77.0337961,38.8893392,9.26 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:05Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0578512,38.8865620,1207.54 
+-77.0337799,38.8893322,9.27 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:06Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0578980,38.8868454,1207.59 
+-77.0337740,38.8893336,9.27 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:07Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0579391,38.8871295,1207.66 
+-77.0337680,38.8893351,9.26 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:08Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0579744,38.8874140,1207.72 
+-77.0337475,38.8893351,9.25 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:08Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580040,38.8876990,1207.78 
+-77.0337328,38.8893141,9.31 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:09Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580277,38.8879842,1207.84 
+-77.0337296,38.8892826,9.40 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:10Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580458,38.8882696,1207.89 
+-77.0337385,38.8892548,9.48 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:11Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580581,38.8885553,1207.94 
+-77.0337415,38.8892360,9.54 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:12Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580645,38.8888410,1208.00 
+-77.0337384,38.8892132,9.60 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:12Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580651,38.8891268,1208.04 
+-77.0337374,38.8891936,9.66 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:13Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580600,38.8894126,1208.09 
+-77.0337334,38.8891793,9.70 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:14Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580490,38.8896981,1208.14 
+-77.0337430,38.8891622,9.75 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:15Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580321,38.8899835,1208.20 
+-77.0337460,38.8891528,9.78 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:16Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0580095,38.8902687,1208.26 
+-77.0337495,38.8891462,9.80 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:16Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0579810,38.8905536,1208.33 
+-77.0337457,38.8891377,9.82 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:17Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0579467,38.8908379,1208.40 
+-77.0337376,38.8891277,9.85 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:18Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0579067,38.8911218,1208.46 
+-77.0337339,38.8891228,9.86 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:19Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0578610,38.8914052,1208.53 
+-77.0337303,38.8891229,9.86 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:20Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0578095,38.8916879,1208.59 
+-77.0337290,38.8891226,9.86 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:20Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0577521,38.8919699,1208.65 
+-77.0337195,38.8891205,9.86 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:21Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0576890,38.8922510,1208.73 
+-77.0337161,38.8891203,9.86 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:22Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0576201,38.8925313,1208.82 
+-77.0337210,38.8891242,9.85 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:23Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0575454,38.8928107,1208.90 
+-77.0337350,38.8891215,9.86 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:24Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0574651,38.8930891,1208.99 
+-77.0337580,38.8891192,9.88 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:24Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0573789,38.8933667,1209.08 
+-77.0337686,38.8891241,9.87 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:25Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0572872,38.8936431,1209.18 
+-77.0337859,38.8891302,9.86 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:26Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0571898,38.8939183,1209.27 
+-77.0337996,38.8891396,9.84 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:27Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0570870,38.8941924,1209.36 
+-77.0338213,38.8891494,9.82 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:28Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0569786,38.8944651,1209.45 
+-77.0338569,38.8891620,9.80 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:28Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0568646,38.8947364,1209.55 
+-77.0338869,38.8891683,9.79 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:29Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0567453,38.8950063,1209.65 
+-77.0339141,38.8891687,9.80 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:30Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0566207,38.8952746,1209.74 
+-77.0339395,38.8891647,9.82 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:31Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0564906,38.8955413,1209.81 
+-77.0339540,38.8891495,9.87 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:32Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0563550,38.8958064,1209.87 
+-77.0339669,38.8891357,9.92 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:32Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0562142,38.8960698,1209.95 
+-77.0339863,38.8891140,9.99 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:33Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0560681,38.8963314,1210.01 
+-77.0340027,38.8890900,10.07 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:34Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0559168,38.8965912,1210.08 
+-77.0340228,38.8890580,10.17 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:35Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0557601,38.8968491,1210.15 
+-77.0340456,38.8890253,10.27 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:36Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0555983,38.8971049,1210.23 
+-77.0340677,38.8889983,10.35 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:36Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0554313,38.8973588,1210.33 
+-77.0340958,38.8889705,10.38 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:37Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0552590,38.8976107,1210.43 
+-77.0341262,38.8889417,10.40 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:38Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0550816,38.8978604,1210.55 
+-77.0341419,38.8889185,10.42 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:39Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0548992,38.8981078,1210.66 
+-77.0341561,38.8889006,10.43 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:40Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0547117,38.8983529,1210.76 
+-77.0341674,38.8888771,10.45 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:40Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0545193,38.8985955,1210.83 
+-77.0341547,38.8888485,10.45 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:41Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0543220,38.8988358,1210.90 
+-77.0341442,38.8888136,10.47 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:42Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0541199,38.8990735,1210.96 
+-77.0341389,38.8887765,10.48 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:43Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0539130,38.8993088,1211.01 
+-77.0341489,38.8887406,10.50 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:44Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0537014,38.8995415,1211.08 
+-77.0341536,38.8887156,10.51 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:44Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0534850,38.8997715,1211.14 
+-77.0341611,38.8886995,10.52 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:45Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0532640,38.8999988,1211.20 
+-77.0341723,38.8886882,10.53 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:46Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0530385,38.9002233,1211.29 
+-77.0341926,38.8886862,10.54 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:47Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0528084,38.9004451,1211.36 
+-77.0342152,38.8886859,10.55 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:48Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0525739,38.9006639,1211.42 
+-77.0342429,38.8886860,10.56 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:48Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0523348,38.9008797,1211.47 
+-77.0342716,38.8886919,10.57 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:49Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0520915,38.9010925,1211.50 
+-77.0342943,38.8886905,10.58 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:50Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0518437,38.9013022,1211.57 
+-77.0343034,38.8886880,10.59 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:51Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0515917,38.9015088,1211.62 
+-77.0342958,38.8886908,10.58 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="plot3">
+<name>ge_plot3</name>
+<TimeStamp><when>2014-04-11T16:04:52Z</when></TimeStamp>
+<Style><LineStyle><color>FFFF0000</color><width>2.00</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle></Style>
+<Polygon id="poly_plot3">
+<altitudeMode>absolute</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+-77.0513354,38.9017123,1211.68 
+-77.0343011,38.8886966,10.58 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Folder>
+</Document>
+</kml>
