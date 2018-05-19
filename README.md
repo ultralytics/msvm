@@ -7,7 +7,7 @@ http://www.ultralytics.com/projects
 
 # Description
 
-The https://github.com/ultralytics/msvm repo contains Minimum Separation Vector Mapping (MSVM) code. 
+The https://github.com/ultralytics/msvm repo contains Minimum Separation Vector Mapping (MSVM) code, presented at SPIE Defense + Security, 2014:
 
 G. Jocher et al., "Minimum Separation Vector Mapping (MSVM)," Proc. SPIE 9089, Geospatial InfoFusion and Video Analytics IV; and Motion Imagery for ISR and Situational Awareness II, 90890A (2014).
 http://dx.doi.org/10.1117/12.2053833
