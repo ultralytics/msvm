@@ -20,7 +20,7 @@ The https://github.com/ultralytics/msvm repo contains Minimum Separation Vector 
 
 From MATLAB: `>> runEstimators`
 
-<img src="https://github.com/ultralytics/msvm/blob/master/results.png"> 
+<img src="https://github.com/ultralytics/msvm/blob/master/results.jpg"> 
 
 # Contact
 
