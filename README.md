@@ -9,25 +9,26 @@ Welcome to the MSVM (Minimum Separation Vector Mapping) project! This repository
 
 The MSVM technique, introduced in our SPIE Defense + Security 2014 paper, employs advanced algorithms to map and analyze motion imagery for ISR tasks. For more details, please refer to our publication:
 
-Jocher, G., et al. "Minimum Separation Vector Mapping (MSVM)." Proc. SPIE 9089, 
-Geospatial InfoFusion and Video Analytics IV; and Motion Imagery for ISR and Situational Awareness II, 90890A (2014). 
-[DOI: 10.1117/12.2053833](http://dx.doi.org/10.1117/12.2053833)
+Jocher, G., et al. "Minimum Separation Vector Mapping (MSVM)." Proc. SPIE 9089, Geospatial InfoFusion and Video Analytics IV; and Motion Imagery for ISR and Situational Awareness II, 90890A (2014). [DOI: 10.1117/12.2053833](http://dx.doi.org/10.1117/12.2053833)
 
 # 🔧 Requirements
 
 Before diving into the MSVM codebase, ensure that you have [MATLAB](https://www.mathworks.com/products/matlab.html) version 2018a or newer installed, alongside the necessary toolboxes for smooth operation. Follow these steps to get started:
 
 1. Clone the common functions repository provided by Ultralytics:
+
 ```shell
 $ git clone https://github.com/ultralytics/functions-matlab
 ```
 
 2. Add the cloned repository to your MATLAB path by executing the following command in MATLAB:
+
 ```matlab
 >> addpath(genpath('/path/to/functions-matlab'))
 ```
 
 Make sure to have the following MATLAB toolboxes installed and ready:
+
 - `Statistics and Machine Learning Toolbox`
 - `Signal Processing Toolbox`
 
@@ -36,19 +37,21 @@ These toolboxes are essential for executing the ML algorithms within the MSVM fr
 # ▶️ Running the Code
 
 To execute the MSVM estimators, simply navigate to the MATLAB environment and run the following command:
+
 ```matlab
 >> runEstimators
 ```
+
 This will initiate the MSVM analysis and provide you with the output related to geospatial information fusion and video analytics.
 
-Below is a snapshot of the expected results:
-<img src="https://github.com/ultralytics/msvm/blob/master/results.jpg" alt="MSVM Results">
+Below is a snapshot of the expected results: <img src="https://github.com/ultralytics/msvm/blob/master/results.jpg" alt="MSVM Results">
 
 # 🤝 Contribute
 
 We welcome contributions from the community! Whether you're fixing bugs, adding new features, or improving documentation, your input is invaluable. Take a look at our [Contributing Guide](https://docs.ultralytics.com/help/contributing) to get started. Also, we'd love to hear about your experience with Ultralytics products. Please consider filling out our [Survey](https://ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A huge 🙏 and thank you to all of our contributors!
 
 <!-- Ultralytics contributors -->
+
 <a href="https://github.com/ultralytics/yolov5/graphs/contributors">
 <img width="100%" src="https://github.com/ultralytics/assets/raw/main/im/image-contributors.png" alt="Ultralytics open-source contributors"></a>
 
