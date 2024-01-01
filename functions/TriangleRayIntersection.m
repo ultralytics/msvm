@@ -15,7 +15,7 @@ function [intersect, t] = TriangleRayIntersection(orig, dir, vert0, vert1, vert2
 %  * orig : ray's origin    
 %  * dir  : ray's direction
 %  * vert0, vert1, vert2: vertices of the triangle
-%  * options: aditional customization options
+%  * options: additional customization options
 %    * options.epsilon (default = 1e-5)
 %    * options.triangle - 'one sided' or 'two sided' (default) - how to treat
 %        triangles. In 'one sided' version only intersections in single
@@ -86,7 +86,7 @@ end
 end
 
 function [ c ] = fcncross(a,b)
-%xyz are colums!
+%xyz are columns!
 
 %c = [a(2,:).*b(3,:)-a(3,:).*b(2,:)
 %     a(3,:).*b(1,:)-a(1,:).*b(3,:)
@@ -113,7 +113,7 @@ end
 % %  * orig : ray's origin    
 % %  * dir  : ray's direction
 % %  * vert0, vert1, vert2: vertices of the triangle
-% %  * options: aditional customization options
+% %  * options: additional customization options
 % %    * options.epsilon (default = 1e-5)
 % %    * options.triangle - 'one sided' or 'two sided' (default) - how to treat
 % %        triangles. In 'one sided' version only intersections in single
@@ -225,7 +225,7 @@ end
 % end
 % 
 % function [ c ] = fcncross(a,b)
-% %xyz are colums!
+% %xyz are columns!
 % 
 % %c = [a(2,:).*b(3,:)-a(3,:).*b(2,:)
 % %     a(3,:).*b(1,:)-a(1,:).*b(3,:)

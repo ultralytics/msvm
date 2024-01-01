@@ -14,7 +14,7 @@ function varargout = plot_google_map(varargin)
 %    Height (640)   - Height of the image in pixels (max 640)
 %    Width  (640)    - Width of the image in pixels (max 640)
 %    Scale (2)          - (1/2) Resolution scale factor . using Scale=2 will
-%                                  double the resulotion of the downloaded image (up
+%                                  double the resolution of the downloaded image (up
 %                                  to 1280x1280) and will result in finer rendering,
 %                                  but processing time will be longer.
 %    MapType         - ('roadmap')  Type of map to return. Any of [roadmap, 
@@ -25,7 +25,7 @@ function varargout = plot_google_map(varargin)
 %                                  moved to the bottom of the plot (i.e. will
 %                                  not hide previously drawn items), this can
 %                                  be useful in order to increase readability
-%                                  if many colors are ploted (using SCATTER
+%                                  if many colors are plotted (using SCATTER
 %                                  for example).
 %    Marker            - The marker argument is a text string with fields
 %                                  conforming to the Google Maps API. The
@@ -294,7 +294,7 @@ uniImag = zeros(uniHeight,uniWidth,3);
 
 % old version (projection using INTERP2)
 % for idx = 1:3
-%      % 'nearest' method is the fastest. difference from other methods is neglible
+%      % 'nearest' method is the fastest. difference from other methods is negligible
 %          uniImag(:,:,idx) =  interp2(lonMesh,latMesh,imag(:,:,idx),uniLonMesh,uniLatMesh,'nearest');
 % end
 uniImag =  myTurboInterp2(lonMesh,latMesh,imag,uniLonMesh,uniLatMesh);

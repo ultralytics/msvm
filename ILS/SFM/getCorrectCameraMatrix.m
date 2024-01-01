@@ -2,9 +2,9 @@
 % essential matrix is the correct one.
 %
 %
-% Given the Essential matrix and its decomposition into 4 posible solutions
-% the appropiate solution is found using a voting mechanism in which each
-% point correspondance votes for one solution based on the position of the
+% Given the Essential matrix and its decomposition into 4 possible solutions
+% the appropriate solution is found using a voting mechanism in which each
+% point correspondence votes for one solution based on the position of the
 % reconstructed point, which must be in front of both cameras. Camera one
 % is assumed to be [I|0].
 %
