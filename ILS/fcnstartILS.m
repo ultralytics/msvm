@@ -9,7 +9,7 @@ activetp = a.state==1;    vp2(1,:,:) = activetp;  vp2(2,:,:) = activetp;  %valid
 ntpe = sum3(activetp);%number of tie point equations
 mtpl = mean(sum(activetp,2)); %mean tie point life
 
-nz = ntpe*2 + 12*nframes; %number of measurments total
+nz = ntpe*2 + 12*nframes; %number of measurements total
 nx = ntp*3 + 12*nframes; %number of parameters
 nf = ntpe*2 + 12*nframes; %number of equations
 cam.apriori.ned = cam.apriori.ned(1:nframes,:);   cam.aposteriori.ned = cam.apriori.ned;  cam.true.ned = cam.true.ned(1:nframes,:);   

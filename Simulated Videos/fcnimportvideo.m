@@ -140,10 +140,10 @@ for i=1:numel(cam.frameID)
             'BACK TWO FRAMES NOT WORKING!'
         end
         
-        %UDPATE STATES
+        %UPDATE STATES
         a.state(:,i) = f1.state;
         v1 = f0.valid | f1.valid;  a.upx(v1,i)=f1.points(v1,1);  a.upy(v1,i)=f1.points(v1,2);
-        f1 = fcnDropTiePoints(f1,a,i,3); %drop after 3 unsuccesful frame
+        f1 = fcnDropTiePoints(f1,a,i,3); %drop after 3 unsuccessful frame
     end
     
     %WRITE VIDEO

@@ -5,7 +5,7 @@ r2d = 180/pi;  d2r = pi/180;
 ntp = size(a.upx,1); %number of tie points
 
 flagsMIG = false;
-fli = find(a.state(:,1)==1 & a.state(:,end)==1); %tie points exising in first and last frames
+fli = find(a.state(:,1)==1 & a.state(:,end)==1); %tie points existing in first and last frames
 
 
 %BEST 3 ONLY

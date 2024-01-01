@@ -66,7 +66,7 @@ cam.focuspointwander = 20; %m 1 sigma
 [cam, ekf] = fcnaddSyntheticStochasticError(cam.DEM,cam);
 
 %INCREMENT FRAMES ---------------------------------------------------------
-hge = actxserver('googleearth.ApplicationGE'); %Create a COM server running Google Earth
+he = actxserver('googleearth.ApplicationGE'); %Create a COM server running Google Earth
 
 cam.filename = sprintf('GE Synthetic - %s %.0fx%.0f %.0fFOV',scenarioName,cam.width,cam.height,cam.fovh);
 vid=VideoWriter(fcnincrementfname(cam.filename),'MPEG-4');  vid.FrameRate=30;  vid.Quality=100;  open(vid);  import java.awt.Robot;  mouse=Robot;
@@ -76,10 +76,10 @@ for i=1:cam.frames
     az=cam.true.focus.sc(i,3);
     
     %UPDATE GE
-    hge.SetCameraParams(cam.true.focus.lla(i,1),cam.true.focus.lla(i,2),0,1,r,el,az,5);  %h.SetCameraParams(lat,lng,alt,altMode,range(m),tilt(deg),heading(deg),speed);
+    he.SetCameraParams(cam.true.focus.lla(i,1),cam.true.focus.lla(i,2),0,1,r,el,az,5);  %h.SetCameraParams(lat,lng,alt,altMode,range(m),tilt(deg),heading(deg),speed);
     
     %GET TIE POINTS & TOP LEFT PLOT
-    pause(.05);  fcnFinishStreamProgress(hge); 
+    pause(.05);  fcnFinishStreamProgress(he); 
     
     %SCREEN CAPTURE
     if mod(i,100)==0;  mouse.mouseMove(round(rand*100)+cam.ssge(3)+100, round(rand*100)+500); end %move mouse!
