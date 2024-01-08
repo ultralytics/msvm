@@ -5,6 +5,8 @@
 
 Welcome to the MSVM (Minimum Separation Vector Mapping) project! This repository hosts the implementation of an innovative machine learning approach for geospatial information fusion and video analytics, designed to enhance situational awareness in intelligence, surveillance, and reconnaissance (ISR) applications.
 
+[![Ultralytics Actions](https://github.com/ultralytics/msvm/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/msvm/actions/workflows/format.yml)
+
 # 📑 Description
 
 The MSVM technique, introduced in our SPIE Defense + Security 2014 paper, employs advanced algorithms to map and analyze motion imagery for ISR tasks. For more details, please refer to our publication:
