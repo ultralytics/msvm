@@ -46,7 +46,7 @@ To execute the MSVM estimators, simply navigate to the MATLAB environment and ru
 
 This will initiate the MSVM analysis and provide you with the output related to geospatial information fusion and video analytics.
 
-Below is a snapshot of the expected results: <img src="https://github.com/ultralytics/msvm/blob/master/results.jpg" alt="MSVM Results">
+Below is a snapshot of the expected results: <img src="https://github.com/ultralytics/msvm/blob/main/results.jpg" alt="MSVM Results">
 
 # 🤝 Contribute
 
