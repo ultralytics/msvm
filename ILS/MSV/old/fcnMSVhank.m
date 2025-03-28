@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [cam, rmse] = fcnMSVhank(cam,a)
 activetp = a.upx~=0 | a.upy~=0;
 ntp = find(any(a.upy~=0 & a.upx~=0,2),1,'last'); %number of tie points

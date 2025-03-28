@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [] = fcnimportvideo()
 clc; close all; cam=[]; a=[]; fcnaddmfilepath; reset(RandStream.getGlobalStream);
 flags.video = true;

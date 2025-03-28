@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 % getCorrectCameraMatrix - Check which of the 4 solutions from the
 % essential matrix is the correct one.
 %

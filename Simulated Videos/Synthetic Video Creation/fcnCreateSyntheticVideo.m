@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function fcnCreateSyntheticVideo()
 %CREATES SYNTHETIC GE VIDEO, CIRCULAR ORBIT OR BASED ON EXISTING GPS
 clc; close all; tic

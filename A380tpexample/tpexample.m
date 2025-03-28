@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 cdata = importdata('A380.JPG');
 
 I = single(mean(cdata,3));

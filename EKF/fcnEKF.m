@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [cam] = fcnEKF(cam,ekf,a)
 %[x y z, dx dy dz, r p y, dr dp dy, xppo yppo focalLength,  tp1x tp1y tp1z, ...  tpnz   tpny   tpnz]', (15+3n x 1)
 % 1 2 3  4   5  6  7 8 9  10 11 12    13   14          15     16   17   18, ... 10+3n  11+3n  12+3n]

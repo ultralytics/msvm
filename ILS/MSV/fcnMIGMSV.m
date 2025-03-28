@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [C0, msvr] = fcnMIGMSV(cam,a)
 ntp = size(a.upx,1);
 

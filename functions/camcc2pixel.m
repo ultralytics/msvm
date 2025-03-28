@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function xy = camcc2pixel(cam, cc)
 % el = sc(:,2);
 % az = sc(:,3);

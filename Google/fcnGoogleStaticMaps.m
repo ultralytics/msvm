@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [ output_args ] = fcnGoogleStaticMaps(cam)
 str1 = 'http://maps.googleapis.com/maps/api/staticmap?';
 str2 = '&size=640x640&scale=1&maptype=satellite&sensor=false';

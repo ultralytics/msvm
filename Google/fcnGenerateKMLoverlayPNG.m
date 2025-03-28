@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function s = fcnGenerateKMLoverlayPNG(pathname, picfname, lats, lngs, z)
 %This function creates a PNG suitable for use as a KML overlay. The PNG is
 %Plate Carree projected (cylindrical).

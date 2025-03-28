@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [cam, ekf] = fcnaddSyntheticStochasticError(DEM,cam)
 cam.true.dt = 1/cam.fps; %time between frames
 %cam.frames = floor(cam.traveltime/cam.true.dt);

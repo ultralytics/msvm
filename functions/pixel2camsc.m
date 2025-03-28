@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [sc, cc] = pixel2camsc(cam, xy)
 xppo = cam.xppo + (cam.width+1)/2; %x principal point offset
 yppo = cam.yppo + (cam.height+1)/2; %y principal point offset

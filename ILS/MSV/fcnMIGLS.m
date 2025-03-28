@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function C0 = fcnMIGLS(cam,a)
 clc; close all
 if nargin==0

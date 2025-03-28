@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function varargout = plot_google_map(varargin)
 % function h = plot_google_map(varargin)
 % Plots a google map on the current axes using the Google Static Maps API

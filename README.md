@@ -1,72 +1,72 @@
-<br>
-<a href="https://www.ultralytics.com/" target="_blank"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
+<a href="https://www.ultralytics.com/"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
 
-# 🌟 Introduction
+# MSVM (Minimum Separation Vector Mapping)
 
-Welcome to the MSVM (Minimum Separation Vector Mapping) project! This repository hosts the implementation of an innovative machine learning approach for geospatial information fusion and video analytics, designed to enhance situational awareness in intelligence, surveillance, and reconnaissance (ISR) applications.
+[![Ultralytics Actions](https://github.com/ultralytics/msvm/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/msvm/actions/workflows/format.yml)
+[![Ultralytics Discord](https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue)](https://discord.com/invite/ultralytics)
+[![Ultralytics Forums](https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue)](https://community.ultralytics.com/)
+[![Ultralytics Reddit](https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue)](https://reddit.com/r/ultralytics)
 
-[![Ultralytics Actions](https://github.com/ultralytics/msvm/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/msvm/actions/workflows/format.yml) <a href="https://discord.com/invite/ultralytics"><img alt="Discord" src="https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue"></a> <a href="https://community.ultralytics.com/"><img alt="Ultralytics Forums" src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue"></a> <a href="https://reddit.com/r/ultralytics"><img alt="Ultralytics Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue"></a>
+Welcome to the Minimum Separation Vector Mapping (MSVM) project! This repository contains the implementation of an innovative [machine learning](https://www.ultralytics.com/glossary/machine-learning-ml) approach developed by Ultralytics for geospatial information fusion and video analytics. MSVM is designed to enhance situational awareness in intelligence, surveillance, and reconnaissance (ISR) applications, showcasing early work in advanced [computer vision](https://www.ultralytics.com/glossary/computer-vision-cv) techniques.
 
-# 📑 Description
+## 📑 Description
 
-The MSVM technique, introduced in our SPIE Defense + Security 2014 paper, employs advanced algorithms to map and analyze motion imagery for ISR tasks. For more details, please refer to our publication:
+The MSVM technique, originally presented in our SPIE Defense + Security 2014 paper, utilizes sophisticated algorithms to map and analyze motion imagery specifically for ISR tasks. This method focuses on fusing geospatial data with video streams to provide deeper insights. For a comprehensive understanding, please consult the original publication:
 
-Jocher, G., et al. "Minimum Separation Vector Mapping (MSVM)." Proc. SPIE 9089, Geospatial InfoFusion and Video Analytics IV; and Motion Imagery for ISR and Situational Awareness II, 90890A (2014). [DOI: 10.1117/12.2053833](http://dx.doi.org/10.1117/12.2053833)
+Jocher, G., et al. "Minimum Separation Vector Mapping (MSVM)." Proc. SPIE 9089, Geospatial InfoFusion and Video Analytics IV; and Motion Imagery for ISR and Situational Awareness II, 90890A (2014). [DOI: 10.1117/12.2053833](https://doi.org/10.1117/12.2053833)
 
-# 🔧 Requirements
+## 🔧 Requirements
 
-Before diving into the MSVM codebase, ensure that you have [MATLAB](https://www.mathworks.com/products/matlab.html) version 2018a or newer installed, alongside the necessary toolboxes for smooth operation. Follow these steps to get started:
+To run the MSVM codebase, you need [MATLAB](https://www.mathworks.com/products/matlab.html) version 2018a or newer, along with specific toolboxes. Follow these setup steps:
 
-1. Clone the common functions repository provided by Ultralytics:
+1.  **Clone Common Functions:** Get the Ultralytics common MATLAB functions repository:
+    ```shell
+    git clone https://github.com/ultralytics/functions-matlab
+    ```
 
-```shell
-$ git clone https://github.com/ultralytics/functions-matlab
-```
+2.  **Add to MATLAB Path:** Add the cloned repository directory to your MATLAB environment path using this command in MATLAB:
+    ```matlab
+    addpath(genpath('/path/to/functions-matlab'))
+    ```
+    Replace `/path/to/functions-matlab` with the actual path where you cloned the repository.
 
-2. Add the cloned repository to your MATLAB path by executing the following command in MATLAB:
+3.  **Install Required Toolboxes:** Ensure the following MATLAB toolboxes are installed:
+    -   `Statistics and Machine Learning Toolbox`
+    -   `Signal Processing Toolbox`
+
+These toolboxes provide essential functions used by the MSVM algorithms.
+
+## ▶️ Running the Code
+
+To execute the MSVM estimators, open MATLAB, navigate to the project directory, and run the main script:
 
 ```matlab
->> addpath(genpath('/path/to/functions-matlab'))
+runEstimators
 ```
 
-Make sure to have the following MATLAB toolboxes installed and ready:
+This command will start the MSVM analysis process, generating output related to geospatial information fusion and video analytics based on the provided data.
 
-- `Statistics and Machine Learning Toolbox`
-- `Signal Processing Toolbox`
+Here is an example visualization of the expected results:
+<img src="https://github.com/ultralytics/msvm/raw/main/results.jpg" alt="MSVM Results">
 
-These toolboxes are essential for executing the ML algorithms within the MSVM framework.
+## 🤝 Contribute
 
-# ▶️ Running the Code
+We thrive on community contributions! If you're interested in fixing bugs, adding features, or improving documentation for MSVM or other [Ultralytics YOLO](https://docs.ultralytics.com/models/yolov8/) projects, your help is greatly appreciated. Please see our [Contributing Guide](https://docs.ultralytics.com/help/contributing/) for more details on how to get started.
 
-To execute the MSVM estimators, simply navigate to the MATLAB environment and run the following command:
+We also value your feedback on Ultralytics products and encourage you to share your experiences by completing our brief [Survey](https://www.ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A huge 🙏 thank you to all our contributors for supporting open-source AI! Explore more cutting-edge [AI solutions](https://docs.ultralytics.com/solutions/) and manage your projects with [Ultralytics HUB](https://www.ultralytics.com/hub).
 
-```matlab
->> runEstimators
-```
+[![Ultralytics open-source contributors](https://raw.githubusercontent.com/ultralytics/assets/main/im/image-contributors.png)](https://github.com/ultralytics/ultralytics/graphs/contributors)
 
-This will initiate the MSVM analysis and provide you with the output related to geospatial information fusion and video analytics.
+## ©️ License
 
-Below is a snapshot of the expected results: <img src="https://github.com/ultralytics/msvm/blob/main/results.jpg" alt="MSVM Results">
+Ultralytics provides two licensing options to accommodate different use cases:
 
-# 🤝 Contribute
+-   **AGPL-3.0 License**: This [OSI-approved](https://opensource.org/license/agpl-v3) open-source license is ideal for students, researchers, and enthusiasts keen on open collaboration and knowledge sharing. See the [LICENSE](https://github.com/ultralytics/msvm/blob/main/LICENSE) file for details.
+-   **Enterprise License**: Designed for commercial applications, this license permits the seamless integration of Ultralytics software and AI models into commercial products and services, bypassing the open-source requirements of AGPL-3.0. If your project requires commercial licensing, please reach out through [Ultralytics Licensing](https://www.ultralytics.com/license).
 
-We welcome contributions from the community! Whether you're fixing bugs, adding new features, or improving documentation, your input is invaluable. Take a look at our [Contributing Guide](https://docs.ultralytics.com/help/contributing/) to get started. Also, we'd love to hear about your experience with Ultralytics products. Please consider filling out our [Survey](https://www.ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A huge 🙏 and thank you to all of our contributors!
+## 📬 Contact Us
 
-<!-- Ultralytics contributors -->
-
-<a href="https://github.com/ultralytics/yolov5/graphs/contributors">
-<img width="100%" src="https://github.com/ultralytics/assets/raw/main/im/image-contributors.png" alt="Ultralytics open-source contributors"></a>
-
-# ©️ License
-
-Ultralytics is excited to offer two different licensing options to meet your needs:
-
-- **AGPL-3.0 License**: Perfect for students and hobbyists, this [OSI-approved](https://opensource.org/license) open-source license encourages collaborative learning and knowledge sharing. Please refer to the [LICENSE](https://github.com/ultralytics/ultralytics/blob/main/LICENSE) file for detailed terms.
-- **Enterprise License**: Ideal for commercial use, this license allows for the integration of Ultralytics software and AI models into commercial products without the open-source requirements of AGPL-3.0. For use cases that involve commercial applications, please contact us via [Ultralytics Licensing](https://www.ultralytics.com/license).
-
-# 📬 Contact Us
-
-For bug reports, feature requests, and contributions, head to [GitHub Issues](https://github.com/ultralytics/velocity/issues). For questions and discussions about this project and other Ultralytics endeavors, join us on [Discord](https://discord.com/invite/ultralytics)!
+For bug reports, feature suggestions, or contributions related to the MSVM project, please visit [GitHub Issues](https://github.com/ultralytics/msvm/issues). For broader questions and discussions about Ultralytics projects and the AI community, join our active [Discord](https://discord.com/invite/ultralytics) server!
 
 <br>
 <div align="center">

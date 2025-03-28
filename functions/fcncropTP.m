@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function a = fcncropTP(cam,a,i)
 
 a.upx = a.upx(i,:);  

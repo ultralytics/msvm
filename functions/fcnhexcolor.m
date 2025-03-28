@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [x,y,z]=fcnhexcolor(a,b,c)
 %RGBCONV   Convert hex color to or from matlab rgb vector.
 %   RGB = RGBCONV(HEX)  where HEX is a string of hexadecimal numbers

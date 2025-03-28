@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function P = fcnE2P(E,method)
 P = zeros(3,4,4);
 %[eigvec,eigval]=eigs(E)

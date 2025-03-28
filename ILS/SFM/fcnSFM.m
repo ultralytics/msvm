@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [cam, h] = fcnSFM(cam,a,varargin)
 %cam.optim.options3 = optimset('Algorithm','levenberg-marquardt','display','iter','TolX',1E-16,'Tolfun',1E-16,'MaxFunEvals',9000,'MaxIter',3000);
 sequentialflag = false;  sequentialstr = 'non-sequential'; %default is non-sequential SFM

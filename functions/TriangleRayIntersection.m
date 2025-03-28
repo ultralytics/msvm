@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [intersect, t] = TriangleRayIntersection(orig, dir, vert0, vert1, vert2)
 % Ray/triangle intersection using the algorithm proposed by Mller and 
 % Trumbore (1997), implemented as highly vectorized MATLAB code.

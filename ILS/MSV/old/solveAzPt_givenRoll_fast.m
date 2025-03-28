@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [rpy, C] = solveAzPt_givenRoll_fast(cam,a,fi) %fi = frame index
 tpi=1;
 x = cam.aposteriori.rpy(fi,:)'*(pi/180);  roll = x(1);

@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function cam = fcngetcamcornersLLA(cam,msvned,nlsned)
 if ~isfield(cam,'pathname') || isempty(cam.pathname)
     try

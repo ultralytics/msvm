@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 clc; clear all
 syms r1 r2 x1 y1 z1 x2 y2 z2 BAx BAy BAz real
 syms Ax Ay Az Bx By Bz Tx Ty Tz real

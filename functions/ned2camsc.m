@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function sc = ned2camsc(cam,i,ned,flag)
 switch flag
     case 'true'

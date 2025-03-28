@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function ned = pixel2neduvec(cam,i,xy,flag)
 switch flag
     case 'true'
