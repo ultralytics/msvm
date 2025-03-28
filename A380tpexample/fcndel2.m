@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function v = fcndel2(f,varargin)
 %DEL2 Discrete Laplacian.
 %   L = DEL2(U), when U is a matrix, is a discrete approximation of

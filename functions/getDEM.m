@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function DEM = getDEM(cam,lla,geoidstr)
 if nargin==2; geoidstr = 'ellipsoid'; end %elevations off ellipsoid instead of geoid
 

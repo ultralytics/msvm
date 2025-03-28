@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [cam,a] = fcncropimages(cam,a,i)
 
 cam.apriori.lla = cam.apriori.lla(i,:);    cam.aposteriori.lla = cam.aposteriori.lla(i,:);    cam.true.lla = cam.true.lla(i,:);

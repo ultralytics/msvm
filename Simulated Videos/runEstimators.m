@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function runEstimators()
 clc; close all; ils=[]; %#ok<NASGU>
 RandStream.setGlobalStream(RandStream('mt19937ar','Seed',0));

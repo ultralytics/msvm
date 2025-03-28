@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 clc; clear all
 
 syms roll pitch yaw dx dy dz tpx tpy tpz ox oy oz cam_focalLength cam_width cam_height cam_xppo cam_yppo real

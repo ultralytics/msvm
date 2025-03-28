@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [ils, cam] = fcnstartILS(cam,ekf,a)
 startclock1 = clock;
 d2r = pi/180;  r2d=180/pi;

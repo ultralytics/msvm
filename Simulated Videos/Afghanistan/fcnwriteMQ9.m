@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [] = fcnwriteMQ9(lla, rpy, heading, tilt, range)
 daename  = [cd filesep 'GEfiles' filesep 'MQ9.dae'];
 kmlfname = [cd filesep 'GEfiles' filesep 'MQ9.kml'];

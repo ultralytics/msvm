@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function []=fcnEKFplots(cam,ekf,a,index)
 km2m = 1000;
 nf = cam.frames;

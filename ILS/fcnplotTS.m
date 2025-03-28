@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [hf] = fcnplotTS(ts,tsv,nmc,xstr,cam)
 
 [h, hf] = fig(3,4);

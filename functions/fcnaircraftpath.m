@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [cam, ekf] = fcnaircraftpath(DEM,cam)
 % %pick points
 % ni = 1000;

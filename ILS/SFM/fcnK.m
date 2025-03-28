@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function K = fcnK(nx,ny,xppo,yppo,f)
 %Fundamental Matrix F to Essential Matrix E
 %http://www.umiacs.umd.edu/~ramani/cmsc828d/lecture27.pdf

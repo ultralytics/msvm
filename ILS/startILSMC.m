@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 clc; clear; close all; opengl('OpenGLLineSmoothingBug',1); startclock1 = clock;  load test20tp.mat
 cam.optim.options1 = optimset('GradObj','off','display','off','largescale','off','MaxFunEvals',2000);
 cam.optim.options2 = optimset('GradObj','off','display','off','MaxFunEvals',2000,'HessUpdate','bfgs','Algorithm','active-set');

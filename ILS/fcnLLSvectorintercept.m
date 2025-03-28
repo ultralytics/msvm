@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function tphat = fcnLLSvectorintercept(cam,a)
 activetp = a.upx~=0 | a.upy~=0;
 

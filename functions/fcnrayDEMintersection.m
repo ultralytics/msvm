@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function x = fcnrayDEMintersection(DEM,orig,dest)
 np = size(dest,1);  x=zeros(np,3);
 

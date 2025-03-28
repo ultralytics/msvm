@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function ekf = fcnT2PPhiQ(cam,ekf,dt)
 m2km = 1/1000;
 

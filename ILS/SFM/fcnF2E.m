@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function E = fcnF2E(F,K)
 %Fundamental Matrix F to Essential Matrix E
 E = K'*F*K;

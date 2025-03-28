@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [] = fcnAURA()
 clc; close all; clear;
 load('GE Synthetic - Vesuvius 1280x720 45FOV metadata.mat');

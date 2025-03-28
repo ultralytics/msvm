@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function F = fcn8ptF(X1, X2)
 % eightpoint - 8 Point algorithm for estimating the Fundamental matrix
 % Computes the fundamental matrix F given a set of at least 8 image point 

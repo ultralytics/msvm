@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function fcnFinishStreamProgress(h)
 percentdone = get(h,'StreamingProgressPercentage');
 if percentdone==100

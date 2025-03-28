@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [n1, n2, n3] = fcnget3distantframes(xyz)
 %selects the 2 farthest frames from n1
 nf = size(xyz,1);

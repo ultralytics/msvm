@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [h] = fcnplotcam(ha,xhat,C,fovh,fovv,c,R,t)
 r2d = 180/pi;
 d2r = pi/180;
