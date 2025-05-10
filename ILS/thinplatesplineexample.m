@@ -1,6 +1,5 @@
 % Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
 
-
 nxy = 31;
 xy = 2*(rand(2,nxy)-.5); 
 vals = sum(xy.^2);
