@@ -17,7 +17,7 @@ Jocher, G., et al. "Minimum Separation Vector Mapping (MSVM)." Proc. SPIE 9089, 
 
 ## 🔧 Requirements
 
-To run the MSVM codebase, you need [MATLAB](https://www.mathworks.com/products/matlab.html) version 2018a or newer, along with specific toolboxes. Follow these setup steps:
+To run the MSVM codebase, you need [MATLAB](https://www.mathworks.com/products/matlab.html) R2018a or newer, along with specific toolboxes. Follow these setup steps:
 
 1.  **Clone Common Functions:** Get the Ultralytics common MATLAB functions repository:
 
@@ -25,23 +25,26 @@ To run the MSVM codebase, you need [MATLAB](https://www.mathworks.com/products/m
     git clone https://github.com/ultralytics/functions-matlab
     ```
 
-2.  **Add to MATLAB Path:** Add the cloned repository directory to your MATLAB environment path using this command in MATLAB:
+2.  **Add to MATLAB Path:** Add this repository and the cloned common-functions repository to your MATLAB environment path using these commands in MATLAB:
 
     ```matlab
+    addpath(genpath('/path/to/msvm'))
     addpath(genpath('/path/to/functions-matlab'))
     ```
 
-    Replace `/path/to/functions-matlab` with the actual path where you cloned the repository.
+    Replace `/path/to/msvm` and `/path/to/functions-matlab` with the actual paths where you cloned the repositories.
 
 3.  **Install Required Toolboxes:** Ensure the following MATLAB toolboxes are installed:
     - `Statistics and Machine Learning Toolbox`
     - `Signal Processing Toolbox`
+    - `Optimization Toolbox`
+    - `Computer Vision Toolbox`
 
 These toolboxes provide essential functions used by the MSVM algorithms.
 
 ## ▶️ Running the Code
 
-To execute the MSVM estimators, open MATLAB, navigate to the project directory, and run the main script:
+To execute the MSVM estimators, open MATLAB, navigate to the project directory, and run the main entry point from `Simulated Videos/runEstimators.m`:
 
 ```matlab
 runEstimators
@@ -50,7 +53,7 @@ runEstimators
 This command will start the MSVM analysis process, generating output related to geospatial information fusion and video analytics based on the provided data.
 
 Here is an example visualization of the expected results:
-<img src="https://github.com/ultralytics/msvm/raw/main/results.jpg" alt="MSVM Results">
+<img src="results.jpg" alt="MSVM Results">
 
 ## 🤝 Contribute
 
@@ -64,7 +67,7 @@ We also value your feedback on Ultralytics products and encourage you to share y
 
 Ultralytics provides two licensing options to accommodate different use cases:
 
-- **AGPL-3.0 License**: This [OSI-approved](https://opensource.org/license/agpl-v3) open-source license is ideal for students, researchers, and enthusiasts keen on open collaboration and knowledge sharing. See the [LICENSE](https://github.com/ultralytics/msvm/blob/main/LICENSE) file for details.
+- **AGPL-3.0 License**: This [OSI-approved](https://opensource.org/license/agpl-3-0/) open-source license is ideal for students, researchers, and enthusiasts keen on open collaboration and knowledge sharing. See the [LICENSE](https://github.com/ultralytics/msvm/blob/main/LICENSE) file for details.
 - **Enterprise License**: Designed for commercial applications, this license permits the seamless integration of Ultralytics software and AI models into commercial products and services, bypassing the open-source requirements of AGPL-3.0. If your project requires commercial licensing, please reach out through [Ultralytics Licensing](https://www.ultralytics.com/license).
 
 ## 📬 Contact Us
