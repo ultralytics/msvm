@@ -74,7 +74,7 @@ function varargout = plot_google_map(varargin)
 % http://www.maptiler.org/google-maps-coordinates-tile-bounds-projection/
 % http://developers.google.com/maps/documentation/staticmaps/
 %
-%  Acknowledgement to Val Schmidt for his submission of get_google_map.m
+%  Acknowledgment to Val Schmidt for his submission of get_google_map.m
 %
 %  Author:
 %  Zohar Bar-Yehuda
@@ -353,7 +353,7 @@ y = y * originShift / 180;
 
 
 function ZI = myTurboInterp2(X,Y,Z,XI,YI)
-% An extremely fast nearest neighbour 2D interpolation, assuming both input
+% An extremely fast nearest neighbor 2D interpolation, assuming both input
 % and output grids consist only of squares, meaning:
 % - uniform X for each column
 % - uniform Y for each row
