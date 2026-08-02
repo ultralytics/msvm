@@ -55,24 +55,29 @@ This command will start the MSVM analysis process, generating output related to 
 Here is an example visualization of the expected results:
 <img src="results.jpg" alt="MSVM Results">
 
-## 🤝 Contribute
+## 💡 Contribute
 
-We thrive on community contributions! If you're interested in fixing bugs, adding features, or improving documentation for MSVM or other [Ultralytics YOLO](https://docs.ultralytics.com/models) projects, your help is greatly appreciated. Please see our [Contributing Guide](https://docs.ultralytics.com/help/contributing) for more details on how to get started.
+Ultralytics thrives on community collaboration, and we deeply value your contributions! Whether it's reporting bugs, suggesting features, or submitting code changes, your involvement is crucial.
 
-We also value your feedback on Ultralytics products and encourage you to share your experiences by completing our brief [Survey](https://www.ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A huge 🙏 thank you to all our contributors for supporting open-source AI! Explore more cutting-edge [AI solutions](https://docs.ultralytics.com/solutions) and manage your projects with the [Ultralytics Platform](https://platform.ultralytics.com/).
+- **Reporting Issues**: Encounter a bug? Please report it on [GitHub Issues](https://github.com/ultralytics/msvm/issues).
+- **Feature Requests**: Have an idea for improvement? Share it via [GitHub Issues](https://github.com/ultralytics/msvm/issues).
+- **Pull Requests**: Want to contribute code? Please read our [Contributing Guide](https://docs.ultralytics.com/help/contributing) first, then submit a Pull Request.
+- **Feedback**: Share your thoughts and experiences by participating in our official [Survey](https://www.ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey).
+
+A heartfelt thank you 🙏 goes out to all our contributors! Your efforts help make Ultralytics tools better for everyone.
 
 [![Ultralytics open-source contributors](https://raw.githubusercontent.com/ultralytics/assets/main/im/image-contributors.png)](https://github.com/ultralytics/ultralytics/graphs/contributors)
 
-## ©️ License
+## 📄 License
 
-Ultralytics provides two licensing options to accommodate different use cases:
+Ultralytics offers two licensing options to accommodate diverse needs:
 
-- **AGPL-3.0 License**: This [OSI-approved](https://opensource.org/license/agpl-3-0) open-source license is ideal for students, researchers, and enthusiasts keen on open collaboration and knowledge sharing. See the [LICENSE](https://github.com/ultralytics/msvm/blob/main/LICENSE) file for details.
-- **Enterprise License**: Designed for commercial applications, this license permits the seamless integration of Ultralytics software and AI models into commercial products and services, bypassing the open-source requirements of AGPL-3.0. If your project requires commercial licensing, please reach out through [Ultralytics Licensing](https://www.ultralytics.com/license).
+- **AGPL-3.0 License**: Ideal for students, researchers, and enthusiasts passionate about open collaboration and knowledge sharing. This [OSI-approved](https://opensource.org/license/agpl-3.0) open-source license promotes transparency and community involvement. See the [LICENSE](LICENSE) file for details.
+- **Enterprise License**: Designed for commercial applications, this license permits the seamless integration of Ultralytics software and AI models into commercial products and services, bypassing the copyleft requirements of AGPL-3.0. For commercial use cases, please inquire about an [Ultralytics Enterprise License](https://www.ultralytics.com/license).
 
-## 📬 Contact Us
+## 📮 Contact
 
-For bug reports, feature suggestions, or contributions related to the MSVM project, please visit [GitHub Issues](https://github.com/ultralytics/msvm/issues). For broader questions and discussions about Ultralytics projects and the AI community, join our active [Discord](https://discord.com/invite/ultralytics) server!
+For bug reports or feature suggestions, please use [GitHub Issues](https://github.com/ultralytics/msvm/issues). For general questions, discussions, and community support, join our [Discord](https://discord.com/invite/ultralytics) server!
 
 <br>
 <div align="center">
@@ -82,7 +87,7 @@ For bug reports, feature suggestions, or contributions related to the MSVM proje
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
   <a href="https://twitter.com/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-twitter.png" width="3%" alt="Ultralytics Twitter"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
-  <a href="https://youtube.com/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-youtube.png" width="3%" alt="Ultralytics YouTube"></a>
+  <a href="https://www.youtube.com/ultralytics?sub_confirmation=1"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-youtube.png" width="3%" alt="Ultralytics YouTube"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
   <a href="https://www.tiktok.com/@ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-tiktok.png" width="3%" alt="Ultralytics TikTok"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
