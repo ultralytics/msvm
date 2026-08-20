@@ -1,11 +1,11 @@
-<a href="https://www.ultralytics.com/"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
+<a href="https://www.ultralytics.com"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
 
 # MSVM (Minimum Separation Vector Mapping)
 
 [![Ultralytics Actions](https://github.com/ultralytics/msvm/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/msvm/actions/workflows/format.yml)
 [![Ultralytics Discord](https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue)](https://discord.com/invite/ultralytics)
-[![Ultralytics Forums](https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue)](https://community.ultralytics.com/)
-[![Ultralytics Reddit](https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue)](https://reddit.com/r/ultralytics)
+[![Ultralytics Forums](https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue)](https://community.ultralytics.com)
+[![Ultralytics Reddit](https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue)](https://www.reddit.com/r/ultralytics/)
 
 Welcome to the Minimum Separation Vector Mapping (MSVM) project! This repository contains the implementation of an innovative [machine learning](https://www.ultralytics.com/glossary/machine-learning-ml) approach developed by Ultralytics for geospatial information fusion and video analytics. MSVM is designed to enhance situational awareness in intelligence, surveillance, and reconnaissance (ISR) applications, showcasing early work in advanced [computer vision](https://www.ultralytics.com/glossary/computer-vision-cv) techniques.
 
