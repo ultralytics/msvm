@@ -13,7 +13,7 @@ Welcome to the Minimum Separation Vector Mapping (MSVM) project! This repository
 
 The MSVM technique, originally presented in our SPIE Defense + Security 2014 paper, utilizes sophisticated algorithms to map and analyze motion imagery specifically for ISR tasks. This method focuses on fusing geospatial data with video streams to provide deeper insights. For a comprehensive understanding, please consult the original publication:
 
-Jocher, G., et al. "Minimum Separation Vector Mapping (MSVM)." Proc. SPIE 9089, Geospatial InfoFusion and Video Analytics IV; and Motion Imagery for ISR and Situational Awareness II, 90890A (2014). [DOI: 10.1117/12.2053833](https://doi.org/10.1117/12.2053833)
+Jocher, G., et al. "Minimum Separation Vector Mapping (MSVM)." Proc. SPIE 9089, Geospatial InfoFusion and Video Analytics IV; and Motion Imagery for ISR and Situational Awareness II, 90890A (2014). [DOI: 10.1117/12.2053833](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9089/1/Minimum-Separation-Vector-Mapping-MSVM/10.1117/12.2053833.full)
 
 ## 🔧 Requirements
 
