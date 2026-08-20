@@ -1,11 +1,11 @@
-<a href="https://www.ultralytics.com/"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
+<a href="https://www.ultralytics.com"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
 
 # MSVM (Minimum Separation Vector Mapping)
 
 [![Ultralytics Actions](https://github.com/ultralytics/msvm/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/msvm/actions/workflows/format.yml)
 [![Ultralytics Discord](https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue)](https://discord.com/invite/ultralytics)
-[![Ultralytics Forums](https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue)](https://community.ultralytics.com/)
-[![Ultralytics Reddit](https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue)](https://reddit.com/r/ultralytics)
+[![Ultralytics Forums](https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue)](https://community.ultralytics.com)
+[![Ultralytics Reddit](https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue)](https://www.reddit.com/r/Ultralytics/)
 
 Welcome to the Minimum Separation Vector Mapping (MSVM) project! This repository contains the implementation of an innovative [machine learning](https://www.ultralytics.com/glossary/machine-learning-ml) approach developed by Ultralytics for geospatial information fusion and video analytics. MSVM is designed to enhance situational awareness in intelligence, surveillance, and reconnaissance (ISR) applications, showcasing early work in advanced [computer vision](https://www.ultralytics.com/glossary/computer-vision-cv) techniques.
 
@@ -13,7 +13,7 @@ Welcome to the Minimum Separation Vector Mapping (MSVM) project! This repository
 
 The MSVM technique, originally presented in our SPIE Defense + Security 2014 paper, utilizes sophisticated algorithms to map and analyze motion imagery specifically for ISR tasks. This method focuses on fusing geospatial data with video streams to provide deeper insights. For a comprehensive understanding, please consult the original publication:
 
-Jocher, G., et al. "Minimum Separation Vector Mapping (MSVM)." Proc. SPIE 9089, Geospatial InfoFusion and Video Analytics IV; and Motion Imagery for ISR and Situational Awareness II, 90890A (2014). [DOI: 10.1117/12.2053833](https://doi.org/10.1117/12.2053833)
+Jocher, G., et al. "Minimum Separation Vector Mapping (MSVM)." Proc. SPIE 9089, Geospatial InfoFusion and Video Analytics IV; and Motion Imagery for ISR and Situational Awareness II, 90890A (2014). [DOI: 10.1117/12.2053833](https://www.researchgate.net/publication/269321078_Minimum_Separation_Vector_Mapping_MSVM)
 
 ## 🔧 Requirements
 
